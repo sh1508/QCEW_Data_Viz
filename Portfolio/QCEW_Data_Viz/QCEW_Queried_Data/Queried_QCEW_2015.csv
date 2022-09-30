@@ -1,0 +1,542 @@
+"year","state","industry","ann_avg_establishment_count","ann_avg_employment","ann_total_wages","ann_avg_weekly_wage","ann_avg_pay"
+2015,"Alabama","Natural resources and mining",1783,18710,1009203352,1037,53940
+2015,"Alabama","Construction",9131,81684,3981600908,937,48744
+2015,"Alabama","Manufacturing",5141,257838,13801176912,1029,53526
+2015,"Alabama","Trade, transportation, and utilities",31377,374565,14554157182,747,38856
+2015,"Alabama","Information",1695,21506,1202010191,1075,55893
+2015,"Alabama","Financial activities",12585,92650,5922189032,1229,63920
+2015,"Alabama","Professional and business services",20393,228598,11615851276,977,50813
+2015,"Alabama","Education and health services",11967,221705,9881695539,857,44571
+2015,"Alabama","Leisure and hospitality",10001,189991,2953505837,299,15546
+2015,"Alabama","Other services",8934,44921,1543350779,661,34357
+2015,"Alaska","Natural resources and mining",483,18239,2348260457,2476,128751
+2015,"Alaska","Construction",2505,17662,1436208428,1564,81317
+2015,"Alaska","Manufacturing",523,14041,663382262,909,47248
+2015,"Alaska","Trade, transportation, and utilities",4288,65670,2925182047,857,44544
+2015,"Alaska","Information",376,6309,406993152,1241,64508
+2015,"Alaska","Financial activities",1407,11792,644702532,1051,54675
+2015,"Alaska","Professional and business services",3357,29964,1892126476,1214,63146
+2015,"Alaska","Education and health services",2411,46326,2271206022,943,49027
+2015,"Alaska","Leisure and hospitality",2503,34925,808210143,445,23141
+2015,"Alaska","Other services",1733,9998,381073785,733,38115
+2015,"Alaska","Unclassified",519,349,14009305,771,40103
+2015,"Arizona","Natural resources and mining",1290,37784,1740019534,886,46051
+2015,"Arizona","Construction",11306,127012,6272814305,950,49388
+2015,"Arizona","Manufacturing",4608,157178,11327277245,1386,72067
+2015,"Arizona","Trade, transportation, and utilities",30275,500730,21565178858,828,43067
+2015,"Arizona","Information",2347,44800,2948887718,1266,65823
+2015,"Arizona","Financial activities",15489,189875,12396545897,1256,65288
+2015,"Arizona","Professional and business services",30461,395543,20955451634,1019,52979
+2015,"Arizona","Education and health services",16145,391960,18981001652,931,48426
+2015,"Arizona","Leisure and hospitality",12203,297600,6487122544,419,21798
+2015,"Arizona","Other services",10235,69475,2349354571,650,33816
+2015,"Arizona","Unclassified",11595,12578,623384248,953,49562
+2015,"Arkansas","Natural resources and mining",2607,18669,897949762,925,48100
+2015,"Arkansas","Construction",6646,49218,2172727856,849,44145
+2015,"Arkansas","Manufacturing",2980,154876,6908269416,858,44605
+2015,"Arkansas","Trade, transportation, and utilities",21390,248050,9572625284,742,38591
+2015,"Arkansas","Information",1054,13313,715402879,1033,53737
+2015,"Arkansas","Financial activities",8168,48239,2570219534,1025,53281
+2015,"Arkansas","Professional and business services",13602,138688,7633506484,1058,55041
+2015,"Arkansas","Education and health services",15138,171979,6852519772,766,39845
+2015,"Arkansas","Leisure and hospitality",6779,111689,1677644627,289,15021
+2015,"Arkansas","Other services",5310,24010,755997996,606,31486
+2015,"California","Natural resources and mining",17249,447430,16335723081,702,36510
+2015,"California","Construction",68739,726339,45219859475,1197,62257
+2015,"California","Manufacturing",40990,1284296,107710695553,1613,83868
+2015,"California","Trade, transportation, and utilities",181638,2901707,143047789151,948,49298
+2015,"California","Information",20575,482179,70218324950,2801,145627
+2015,"California","Financial activities",92511,793399,76049972285,1843,95853
+2015,"California","Professional and business services",182421,2481930,206128911800,1597,83052
+2015,"California","Education and health services",531911,2381936,115927339706,936,48669
+2015,"California","Leisure and hospitality",96947,1815830,48929394573,518,26946
+2015,"California","Other services",90485,511726,18650230533,701,36446
+2015,"California","Unclassified",57575,89731,4598808107,986,51251
+2015,"Colorado","Natural resources and mining",3273,46174,4044152108,1684,87586
+2015,"Colorado","Construction",17769,148604,8224713432,1064,55347
+2015,"Colorado","Manufacturing",5665,140816,9361858354,1279,66483
+2015,"Colorado","Trade, transportation, and utilities",35024,441743,20333570149,885,46030
+2015,"Colorado","Information",3369,70602,6647480932,1811,94154
+2015,"Colorado","Financial activities",20939,153261,11849700786,1487,77317
+2015,"Colorado","Professional and business services",47126,398420,29304710470,1414,73552
+2015,"Colorado","Education and health services",17845,309056,14572032208,907,47150
+2015,"Colorado","Leisure and hospitality",15691,312338,7124008777,439,22809
+2015,"Colorado","Other services",14607,75172,2817107390,721,37475
+2015,"Colorado","Unclassified",1416,1424,78168667,1056,54894
+2015,"Connecticut","Natural resources and mining",429,5444,198994188,703,36553
+2015,"Connecticut","Construction",9249,57920,3720995266,1235,64244
+2015,"Connecticut","Manufacturing",4536,158957,12804841011,1549,80555
+2015,"Connecticut","Trade, transportation, and utilities",24952,296561,14612773527,948,49274
+2015,"Connecticut","Information",1975,32352,3211657996,1909,99271
+2015,"Connecticut","Financial activities",10559,128023,19286874254,2897,150652
+2015,"Connecticut","Professional and business services",22163,216675,18708584135,1660,86344
+2015,"Connecticut","Education and health services",12273,319053,16771814263,1011,52567
+2015,"Connecticut","Leisure and hospitality",10143,151172,3310546414,421,21899
+2015,"Connecticut","Other services",15287,61685,2016053771,629,32683
+2015,"Connecticut","Unclassified",622,553,43665021,1519,79008
+2015,"Delaware","Natural resources and mining",173,1523,55041851,695,36152
+2015,"Delaware","Construction",2824,20753,1144213099,1060,55136
+2015,"Delaware","Manufacturing",767,27033,1732478132,1232,64087
+2015,"Delaware","Trade, transportation, and utilities",6533,80063,3236742966,777,40427
+2015,"Delaware","Information",397,4714,300640955,1227,63781
+2015,"Delaware","Financial activities",2712,46598,4044743348,1669,86800
+2015,"Delaware","Professional and business services",8441,59878,4587410386,1473,76613
+2015,"Delaware","Education and health services",3933,70913,3660961685,993,51626
+2015,"Delaware","Leisure and hospitality",2508,48610,936241686,370,19260
+2015,"Delaware","Other services",2004,11663,379293630,625,32520
+2015,"District of Columbia","Construction",975,14521,923598811,1223,63603
+2015,"District of Columbia","Manufacturing",147,1094,104849006,1844,95869
+2015,"District of Columbia","Trade, transportation, and utilities",3115,31669,1689935840,1026,53363
+2015,"District of Columbia","Information",969,16998,2068025797,2340,121663
+2015,"District of Columbia","Financial activities",2020,26594,3556821624,2572,133746
+2015,"District of Columbia","Professional and business services",11323,160814,17404132226,2081,108225
+2015,"District of Columbia","Education and health services",2770,111174,6738736117,1166,60614
+2015,"District of Columbia","Leisure and hospitality",2756,72474,2669298311,708,36831
+2015,"District of Columbia","Other services",10257,67374,5777936629,1649,85760
+2015,"District of Columbia","Unclassified",3289,4063,318835182,1509,78466
+2015,"Florida","Natural resources and mining",5385,80292,2468745772,591,30747
+2015,"Florida","Construction",61674,431403,19751834753,880,45785
+2015,"Florida","Manufacturing",19590,342380,19639151449,1103,57361
+2015,"Florida","Trade, transportation, and utilities",139815,1676816,69500376063,797,41448
+2015,"Florida","Information",10369,136039,10025553375,1417,73696
+2015,"Florida","Financial activities",67981,530690,36410981924,1319,68611
+2015,"Florida","Professional and business services",145867,1222504,68219958171,1073,55803
+2015,"Florida","Education and health services",67833,1184807,57113843678,927,48205
+2015,"Florida","Leisure and hospitality",53634,1132088,27067215032,460,23909
+2015,"Florida","Other services",52947,262174,8730793955,640,33302
+2015,"Florida","Unclassified",11197,6711,277793087,796,41395
+2015,"Georgia","Natural resources and mining",2713,30074,1133688122,725,37696
+2015,"Georgia","Construction",22262,165335,8753921415,1018,52947
+2015,"Georgia","Manufacturing",9665,375416,21013678608,1076,55974
+2015,"Georgia","Trade, transportation, and utilities",65097,894846,41766622216,898,46675
+2015,"Georgia","Information",5072,106657,9139095956,1648,85687
+2015,"Georgia","Financial activities",27186,224737,17211426775,1473,76585
+2015,"Georgia","Professional and business services",58231,635843,39349959795,1190,61886
+2015,"Georgia","Education and health services",27252,516158,25191213599,939,48805
+2015,"Georgia","Leisure and hospitality",23555,445087,8437424478,365,18957
+2015,"Georgia","Other services",19757,101091,3427723487,652,33907
+2015,"Georgia","Unclassified",19246,18154,1067421772,1131,58800
+2015,"Hawaii","Natural resources and mining",463,6686,255219465,734,38175
+2015,"Hawaii","Construction",3485,34664,2447113282,1358,70595
+2015,"Hawaii","Manufacturing",930,14075,602879346,824,42834
+2015,"Hawaii","Trade, transportation, and utilities",7547,119707,4871424268,783,40694
+2015,"Hawaii","Information",757,8692,553713615,1225,63703
+2015,"Hawaii","Financial activities",3557,27294,1653558488,1165,60583
+2015,"Hawaii","Professional and business services",7442,83542,4114395466,947,49249
+2015,"Hawaii","Education and health services",4502,80103,3988015438,957,49786
+2015,"Hawaii","Leisure and hospitality",4365,114508,3503717466,588,30598
+2015,"Hawaii","Other services",3793,25353,848584754,644,33471
+2015,"Hawaii","Unclassified",324,202,16334740,1553,80765
+2015,"Idaho","Natural resources and mining",2320,26677,961908101,693,36058
+2015,"Idaho","Construction",6760,36151,1445743033,769,39992
+2015,"Idaho","Manufacturing",2450,61589,3414743049,1066,55444
+2015,"Idaho","Trade, transportation, and utilities",11179,133142,4913995957,710,36908
+2015,"Idaho","Information",1010,9161,430285955,903,46969
+2015,"Idaho","Financial activities",5051,28875,1452666497,967,50308
+2015,"Idaho","Professional and business services",9953,79188,3587106013,871,45298
+2015,"Idaho","Education and health services",6450,92081,3640203587,760,39533
+2015,"Idaho","Leisure and hospitality",4521,67817,1035155938,294,15264
+2015,"Idaho","Other services",3545,16542,455569592,530,27541
+2015,"Idaho","Unclassified",27,15,798047,1035,53801
+2015,"Illinois","Natural resources and mining",2872,27118,1337351801,948,49316
+2015,"Illinois","Construction",38091,213245,14450134035,1303,67763
+2015,"Illinois","Manufacturing",19190,580027,39606221472,1313,68283
+2015,"Illinois","Trade, transportation, and utilities",85908,1180450,56687453616,923,48022
+2015,"Illinois","Information",7068,100769,8129589329,1551,80676
+2015,"Illinois","Financial activities",35659,363811,36166489660,1912,99410
+2015,"Illinois","Professional and business services",83491,922125,65735200563,1371,71287
+2015,"Illinois","Education and health services",36274,886367,41919582890,909,47294
+2015,"Illinois","Leisure and hospitality",33852,577238,12626625127,421,21874
+2015,"Illinois","Other services",43534,201521,7978663365,761,39592
+2015,"Illinois","Unclassified",8004,8129,326360791,772,40148
+2015,"Indiana","Natural resources and mining",2085,21270,988581519,894,46478
+2015,"Indiana","Construction",14466,127103,6830786942,1033,53742
+2015,"Indiana","Manufacturing",8409,518900,30630135616,1135,59029
+2015,"Indiana","Trade, transportation, and utilities",39744,576010,22326395735,745,38760
+2015,"Indiana","Information",1941,33585,1881563977,1077,56024
+2015,"Indiana","Financial activities",15682,128185,7678251657,1152,59900
+2015,"Indiana","Professional and business services",27705,330038,15444113218,900,46795
+2015,"Indiana","Education and health services",14781,430087,19044848768,852,44281
+2015,"Indiana","Leisure and hospitality",14849,300977,5160329554,330,17145
+2015,"Indiana","Other services",12999,84846,2567476086,582,30260
+2015,"Indiana","Unclassified",970,8,255090,613,31886
+2015,"Iowa","Natural resources and mining",2656,21523,852835677,762,39624
+2015,"Iowa","Construction",9390,78220,4299321520,1057,54965
+2015,"Iowa","Manufacturing",4103,216167,12083829477,1075,55901
+2015,"Iowa","Trade, transportation, and utilities",23492,311486,11655007100,720,37417
+2015,"Iowa","Information",1657,24929,1320363912,1019,52966
+2015,"Iowa","Financial activities",9664,105644,7197323809,1310,68128
+2015,"Iowa","Professional and business services",14731,138571,6759327060,938,48779
+2015,"Iowa","Education and health services",10664,213518,8693152751,783,40714
+2015,"Iowa","Leisure and hospitality",8436,139829,2140378618,294,15307
+2015,"Iowa","Other services",9197,44908,1363912142,584,30371
+2015,"Kansas","Natural resources and mining",2743,20358,935651938,884,45960
+2015,"Kansas","Construction",7593,60994,3105704182,979,50918
+2015,"Kansas","Manufacturing",3151,161244,8882461044,1059,55087
+2015,"Kansas","Trade, transportation, and utilities",20828,259595,10268757003,761,39557
+2015,"Kansas","Information",1205,20960,1272919819,1168,60731
+2015,"Kansas","Financial activities",8902,73744,4656983709,1214,63151
+2015,"Kansas","Professional and business services",16161,179038,10426542453,1120,58236
+2015,"Kansas","Education and health services",8300,189503,7736899611,785,40827
+2015,"Kansas","Leisure and hospitality",6732,125823,1940105915,297,15419
+2015,"Kansas","Other services",6162,33093,1064825089,619,32177
+2015,"Kentucky","Natural resources and mining",1726,21936,1226043376,1075,55893
+2015,"Kentucky","Construction",9496,75720,3911785582,993,51661
+2015,"Kentucky","Manufacturing",4462,241345,13686841186,1091,56711
+2015,"Kentucky","Trade, transportation, and utilities",28568,382367,15078112499,758,39434
+2015,"Kentucky","Information",1750,25165,1235123756,944,49080
+2015,"Kentucky","Financial activities",10809,91367,5553197897,1169,60779
+2015,"Kentucky","Professional and business services",20106,215065,9824178344,878,45680
+2015,"Kentucky","Education and health services",17152,252387,11526164749,878,45669
+2015,"Kentucky","Leisure and hospitality",9899,187823,3047513153,312,16225
+2015,"Kentucky","Other services",12186,46271,1412396102,587,30525
+2015,"Kentucky","Unclassified",456,458,23961988,1006,52309
+2015,"Louisiana","Natural resources and mining",3288,54569,4653186872,1640,85272
+2015,"Louisiana","Construction",10245,140578,8123364841,1111,57786
+2015,"Louisiana","Manufacturing",4506,143782,9971302142,1334,69350
+2015,"Louisiana","Trade, transportation, and utilities",29474,389625,16063960577,793,41229
+2015,"Louisiana","Information",1582,26608,1366638431,988,51362
+2015,"Louisiana","Financial activities",13308,87601,5053476520,1109,57688
+2015,"Louisiana","Professional and business services",22892,213409,11666525027,1051,54668
+2015,"Louisiana","Education and health services",13633,288394,11889613536,793,41227
+2015,"Louisiana","Leisure and hospitality",10956,228239,4577125169,386,20054
+2015,"Louisiana","Other services",9011,47427,1645382001,667,34693
+2015,"Louisiana","Unclassified",562,442,22036108,959,49865
+2015,"Maine","Natural resources and mining",1246,6549,250767294,736,38290
+2015,"Maine","Construction",5261,26519,1212610935,879,45727
+2015,"Maine","Manufacturing",1792,50620,2729511383,1037,53922
+2015,"Maine","Trade, transportation, and utilities",11086,119026,4128913237,667,34689
+2015,"Maine","Information",818,7572,361219085,917,47707
+2015,"Maine","Financial activities",3654,28986,1784650239,1184,61570
+2015,"Maine","Professional and business services",9189,64449,3342524154,997,51863
+2015,"Maine","Education and health services",5117,114953,5071783561,848,44121
+2015,"Maine","Leisure and hospitality",4957,64039,1234143570,371,19272
+2015,"Maine","Other services",4132,17745,544785181,590,30700
+2015,"Maine","Unclassified",454,449,22982937,985,51215
+2015,"Maryland","Natural resources and mining",696,6454,255337105,761,39565
+2015,"Maryland","Construction",16175,154424,9269754309,1154,60028
+2015,"Maryland","Manufacturing",3672,103757,7611944348,1411,73363
+2015,"Maryland","Trade, transportation, and utilities",33095,458016,20249186065,850,44211
+2015,"Maryland","Information",2589,38352,3230539464,1620,84234
+2015,"Maryland","Financial activities",14851,138906,12002498357,1662,86407
+2015,"Maryland","Professional and business services",40779,430527,31855482564,1423,73992
+2015,"Maryland","Education and health services",19572,418340,21589494353,992,51608
+2015,"Maryland","Leisure and hospitality",14436,267493,5774184721,415,21586
+2015,"Maryland","Other services",19421,89645,3516415719,754,39226
+2015,"Massachusetts","Natural resources and mining",1101,8399,471134133,1079,56092
+2015,"Massachusetts","Construction",19425,138991,9877196010,1367,71063
+2015,"Massachusetts","Manufacturing",6976,249084,21458401001,1657,86149
+2015,"Massachusetts","Trade, transportation, and utilities",42530,566520,27271288775,926,48138
+2015,"Massachusetts","Information",4677,88120,9521629167,2078,108052
+2015,"Massachusetts","Financial activities",16566,211424,27622326825,2512,130649
+2015,"Massachusetts","Professional and business services",45558,536475,51987651132,1864,96906
+2015,"Massachusetts","Education and health services",52957,736630,41042937565,1071,55717
+2015,"Massachusetts","Leisure and hospitality",20133,350901,8683617367,476,24747
+2015,"Massachusetts","Other services",20962,114813,4064065188,681,35397
+2015,"Michigan","Natural resources and mining",3072,36338,1357401128,718,37355
+2015,"Michigan","Construction",19233,147828,8472919142,1102,57316
+2015,"Michigan","Manufacturing",14990,585649,38131418919,1252,65110
+2015,"Michigan","Trade, transportation, and utilities",52080,767327,33364041466,836,43481
+2015,"Michigan","Information",4961,56384,3750688109,1279,66521
+2015,"Michigan","Financial activities",18816,192338,12649113402,1265,65765
+2015,"Michigan","Professional and business services",41767,636494,40150561737,1213,63081
+2015,"Michigan","Education and health services",24745,634106,29765513084,903,46941
+2015,"Michigan","Leisure and hospitality",21344,412541,7571700982,353,18354
+2015,"Michigan","Other services",26717,133336,4126650502,595,30949
+2015,"Michigan","Unclassified",3661,8296,382573201,887,46118
+2015,"Minnesota","Natural resources and mining",2819,27416,1243687710,872,45363
+2015,"Minnesota","Construction",15346,115091,7080336941,1183,61519
+2015,"Minnesota","Manufacturing",7958,317292,20067183364,1216,63245
+2015,"Minnesota","Trade, transportation, and utilities",36064,519315,23990432204,888,46196
+2015,"Minnesota","Information",3341,51650,3727957431,1388,72178
+2015,"Minnesota","Financial activities",14819,178084,15786447817,1705,88646
+2015,"Minnesota","Professional and business services",28316,357763,26764459060,1439,74811
+2015,"Minnesota","Education and health services",16010,487935,23104964190,911,47353
+2015,"Minnesota","Leisure and hospitality",13970,259521,5093372790,377,19626
+2015,"Minnesota","Other services",15214,88435,2748669784,598,31081
+2015,"Mississippi","Natural resources and mining",2289,17905,827378116,889,46208
+2015,"Mississippi","Construction",5768,46004,2128124014,890,46260
+2015,"Mississippi","Manufacturing",2423,141754,6564867303,891,46312
+2015,"Mississippi","Trade, transportation, and utilities",19151,223449,7668547321,660,34319
+2015,"Mississippi","Information",990,13601,598030915,846,43971
+2015,"Mississippi","Financial activities",7682,42863,2102378494,943,49049
+2015,"Mississippi","Professional and business services",11575,104888,4278580213,784,40792
+2015,"Mississippi","Education and health services",7046,136987,5408323899,759,39481
+2015,"Mississippi","Leisure and hospitality",6112,129087,2147565482,320,16637
+2015,"Mississippi","Other services",4794,21852,690189203,607,31584
+2015,"Missouri","Natural resources and mining",1823,16302,659194623,778,40438
+2015,"Missouri","Construction",14738,114411,6227709970,1047,54433
+2015,"Missouri","Manufacturing",6579,261328,14730399788,1084,56368
+2015,"Missouri","Trade, transportation, and utilities",39728,532756,21027135112,759,39469
+2015,"Missouri","Information",2594,49898,3611262913,1392,72373
+2015,"Missouri","Financial activities",17142,157166,10292758361,1259,65490
+2015,"Missouri","Professional and business services",31656,370146,22563534437,1172,60959
+2015,"Missouri","Education and health services",40223,431302,18674207995,833,43297
+2015,"Missouri","Leisure and hospitality",14318,292540,5742330138,377,19629
+2015,"Missouri","Other services",13235,74796,2308065847,593,30858
+2015,"Montana","Natural resources and mining",1667,13020,864702508,1277,66414
+2015,"Montana","Construction",5665,26462,1265614982,920,47829
+2015,"Montana","Manufacturing",1436,19113,902017260,908,47193
+2015,"Montana","Trade, transportation, and utilities",8914,91408,3356643879,706,36722
+2015,"Montana","Information",700,6359,308412937,933,48500
+2015,"Montana","Financial activities",3834,20640,1093874252,1019,52997
+2015,"Montana","Professional and business services",7973,40286,1950920964,931,48427
+2015,"Montana","Education and health services",4147,68555,2961198290,831,43194
+2015,"Montana","Leisure and hospitality",4716,62611,1087371362,334,17367
+2015,"Montana","Other services",3674,17207,470317981,526,27334
+2015,"Montana","Unclassified",111,126,9734037,1487,77305
+2015,"Nebraska","Natural resources and mining",2256,14794,584948073,760,39539
+2015,"Nebraska","Construction",6835,48935,2319615539,912,47402
+2015,"Nebraska","Manufacturing",1965,97286,4555679237,901,46828
+2015,"Nebraska","Trade, transportation, and utilities",15013,194024,7131388237,707,36755
+2015,"Nebraska","Information",938,17524,1016566705,1116,58009
+2015,"Nebraska","Financial activities",6144,64046,3828533586,1150,59778
+2015,"Nebraska","Professional and business services",10858,116809,6712168268,1105,57463
+2015,"Nebraska","Education and health services",13165,132346,5625103082,817,42503
+2015,"Nebraska","Leisure and hospitality",5301,88423,1340393745,292,15159
+2015,"Nebraska","Other services",4655,25201,741094423,566,29408
+2015,"Nevada","Natural resources and mining",629,16691,1402842441,1616,84046
+2015,"Nevada","Construction",6093,70199,3738096451,1024,53250
+2015,"Nevada","Manufacturing",1980,42106,2338141697,1068,55530
+2015,"Nevada","Trade, transportation, and utilities",16173,237722,9566557734,774,40243
+2015,"Nevada","Information",1602,13860,853979032,1185,61617
+2015,"Nevada","Financial activities",8889,57806,3530546916,1175,61076
+2015,"Nevada","Professional and business services",20152,166844,9234403675,1064,55347
+2015,"Nevada","Education and health services",8612,119021,6138920766,992,51578
+2015,"Nevada","Leisure and hospitality",8016,340741,10896070324,615,31978
+2015,"Nevada","Other services",4910,30335,1062418635,674,35023
+2015,"Nevada","Unclassified",560,424,33758019,1530,79540
+2015,"New Hampshire","Natural resources and mining",344,2540,101733655,770,40054
+2015,"New Hampshire","Construction",4153,24235,1388033582,1101,57273
+2015,"New Hampshire","Manufacturing",2011,67195,4493954053,1286,66879
+2015,"New Hampshire","Trade, transportation, and utilities",12597,137825,6193760251,864,44939
+2015,"New Hampshire","Information",814,12250,1013965560,1592,82776
+2015,"New Hampshire","Financial activities",3687,35288,3061218100,1668,86750
+2015,"New Hampshire","Professional and business services",11471,76639,5393423176,1353,70374
+2015,"New Hampshire","Education and health services",4576,107469,5615619675,1005,52253
+2015,"New Hampshire","Leisure and hospitality",4423,68470,1352582140,380,19754
+2015,"New Hampshire","Other services",3839,20143,712933817,681,35394
+2015,"New Hampshire","Unclassified",242,231,20351381,1691,87943
+2015,"New Jersey","Natural resources and mining",1024,13046,460357478,679,35287
+2015,"New Jersey","Construction",21612,147024,9949971427,1301,67676
+2015,"New Jersey","Manufacturing",8802,236027,18206156717,1483,77136
+2015,"New Jersey","Trade, transportation, and utilities",54753,842252,43865699343,1002,52081
+2015,"New Jersey","Information",3620,73695,7610276186,1986,103267
+2015,"New Jersey","Financial activities",19518,232462,24818882505,2053,106765
+2015,"New Jersey","Professional and business services",51507,643103,54995564838,1645,85516
+2015,"New Jersey","Education and health services",30499,615631,31357037860,980,50935
+2015,"New Jersey","Leisure and hospitality",22781,356932,8563312569,461,23991
+2015,"New Jersey","Other services",25292,132175,4472932478,651,33841
+2015,"New Jersey","Unclassified",14388,24872,1339714278,1036,53865
+2015,"New Mexico","Natural resources and mining",2059,36924,2235163687,1164,60534
+2015,"New Mexico","Construction",5167,43496,1893483917,837,43533
+2015,"New Mexico","Manufacturing",1718,27788,1593626379,1103,57349
+2015,"New Mexico","Trade, transportation, and utilities",10691,137516,4891310985,684,35569
+2015,"New Mexico","Information",994,12685,643266209,975,50709
+2015,"New Mexico","Financial activities",5087,32029,1696169681,1018,52958
+2015,"New Mexico","Professional and business services",10040,99903,5791960826,1115,57976
+2015,"New Mexico","Education and health services",8595,122447,4854635032,762,39647
+2015,"New Mexico","Leisure and hospitality",4805,93378,1604678220,330,17185
+2015,"New Mexico","Other services",3999,20457,628566280,591,30726
+2015,"New York","Natural resources and mining",2974,30304,1143482938,726,37734
+2015,"New York","Construction",47750,359692,24312152181,1300,67592
+2015,"New York","Manufacturing",17325,452550,29686407493,1262,65598
+2015,"New York","Trade, transportation, and utilities",123840,1558751,75464637628,931,48414
+2015,"New York","Information",11691,264798,30537615207,2218,115324
+2015,"New York","Financial activities",63748,697158,123110617151,3396,176589
+2015,"New York","Professional and business services",108006,1260422,112961044382,1723,89622
+2015,"New York","Education and health services",64697,1737941,86910808880,962,50008
+2015,"New York","Leisure and hospitality",61302,892937,26770740604,577,29981
+2015,"New York","Other services",71657,357681,13605112785,731,38037
+2015,"New York","Unclassified",39935,36614,1720368030,904,46987
+2015,"North Carolina","Natural resources and mining",3354,32017,1111178475,667,34706
+2015,"North Carolina","Construction",25179,189375,9031348806,917,47690
+2015,"North Carolina","Manufacturing",10359,461030,26084200714,1088,56578
+2015,"North Carolina","Trade, transportation, and utilities",60977,794347,31862611654,771,40112
+2015,"North Carolina","Information",4535,75926,5814090638,1473,76576
+2015,"North Carolina","Financial activities",25821,213180,16630137582,1500,78010
+2015,"North Carolina","Professional and business services",55364,589487,34613765166,1129,58718
+2015,"North Carolina","Education and health services",26448,555258,24845096090,860,44745
+2015,"North Carolina","Leisure and hospitality",24181,459140,8371544214,351,18233
+2015,"North Carolina","Other services",22332,104991,3279148092,601,31233
+2015,"North Dakota","Natural resources and mining",1761,27637,2547476240,1773,92176
+2015,"North Dakota","Construction",4301,34046,2211659852,1249,64960
+2015,"North Dakota","Manufacturing",830,25420,1300975306,984,51179
+2015,"North Dakota","Trade, transportation, and utilities",8258,101606,4992948894,945,49140
+2015,"North Dakota","Information",384,6605,395566858,1152,59885
+2015,"North Dakota","Financial activities",2943,23579,1382387015,1127,58629
+2015,"North Dakota","Professional and business services",4594,36089,2101802804,1120,58239
+2015,"North Dakota","Education and health services",2316,59133,2880247695,937,48708
+2015,"North Dakota","Leisure and hospitality",2573,40427,704281464,335,17421
+2015,"North Dakota","Other services",2084,12596,419160484,640,33278
+2015,"Ohio","Natural resources and mining",2488,29718,1458238607,944,49069
+2015,"Ohio","Construction",22620,200338,11196176522,1075,55887
+2015,"Ohio","Manufacturing",15493,685975,39916640571,1119,58190
+2015,"Ohio","Trade, transportation, and utilities",67887,1005786,41330287512,790,41093
+2015,"Ohio","Information",4205,71605,4644401890,1247,64862
+2015,"Ohio","Financial activities",27922,275847,18179822112,1267,65906
+2015,"Ohio","Professional and business services",50838,715827,42967323251,1154,60025
+2015,"Ohio","Education and health services",32879,873700,38107635932,839,43616
+2015,"Ohio","Leisure and hospitality",27604,539182,9631089319,344,17862
+2015,"Ohio","Other services",23580,153092,4572945469,574,29871
+2015,"Ohio","Unclassified",913,1213,49725909,788,41000
+2015,"Oklahoma","Natural resources and mining",4569,64439,5881647520,1755,91275
+2015,"Oklahoma","Construction",9643,77340,3768911228,937,48731
+2015,"Oklahoma","Manufacturing",4323,136916,7364950762,1034,53792
+2015,"Oklahoma","Trade, transportation, and utilities",23780,305231,12246976744,772,40124
+2015,"Oklahoma","Information",1514,21078,1153979275,1053,54748
+2015,"Oklahoma","Financial activities",11049,77270,4143370660,1031,53622
+2015,"Oklahoma","Professional and business services",19961,185490,9221781103,956,49716
+2015,"Oklahoma","Education and health services",12781,205522,8823381823,826,42932
+2015,"Oklahoma","Leisure and hospitality",8552,161436,2762290376,329,17111
+2015,"Oklahoma","Other services",6799,35367,1156468650,629,32699
+2015,"Oklahoma","Unclassified",0,0,1082,125,6492
+2015,"Oregon","Natural resources and mining",4032,50864,1703127260,644,33484
+2015,"Oregon","Construction",12220,82494,4423490677,1031,53622
+2015,"Oregon","Manufacturing",5892,185455,12190767080,1264,65734
+2015,"Oregon","Trade, transportation, and utilities",26207,332232,13426625198,777,40413
+2015,"Oregon","Information",2891,33088,2434095326,1415,73565
+2015,"Oregon","Financial activities",12011,81091,5152188737,1222,63536
+2015,"Oregon","Professional and business services",23321,228004,14732914561,1243,64617
+2015,"Oregon","Education and health services",14767,251400,12131829861,928,48257
+2015,"Oregon","Leisure and hospitality",12761,191300,3740457433,376,19553
+2015,"Oregon","Other services",21573,72855,2160541358,570,29655
+2015,"Oregon","Unclassified",274,229,12166353,1020,53051
+2015,"Pennsylvania","Natural resources and mining",3540,57198,3510458194,1180,61374
+2015,"Pennsylvania","Construction",27938,235324,14156531525,1157,60158
+2015,"Pennsylvania","Manufacturing",14390,567468,33791897881,1145,59549
+2015,"Pennsylvania","Trade, transportation, and utilities",75870,1111314,47420507882,821,42671
+2015,"Pennsylvania","Information",4557,84903,6256406110,1417,73689
+2015,"Pennsylvania","Financial activities",27968,316726,25857035283,1570,81638
+2015,"Pennsylvania","Professional and business services",59277,777663,57158912810,1413,73501
+2015,"Pennsylvania","Education and health services",58650,1125931,55082903891,941,48922
+2015,"Pennsylvania","Leisure and hospitality",32205,545424,10771392923,380,19749
+2015,"Pennsylvania","Other services",31895,193963,6082630345,603,31360
+2015,"Rhode Island","Natural resources and mining",182,953,36109383,729,37907
+2015,"Rhode Island","Construction",3521,17007,964827852,1091,56730
+2015,"Rhode Island","Manufacturing",1623,41145,2295503737,1073,55790
+2015,"Rhode Island","Trade, transportation, and utilities",7537,75885,3096187487,785,40801
+2015,"Rhode Island","Information",838,8613,599925422,1340,69655
+2015,"Rhode Island","Financial activities",2703,30661,2526288569,1585,82396
+2015,"Rhode Island","Professional and business services",7861,63578,4196819061,1269,66011
+2015,"Rhode Island","Education and health services",4431,99247,4614286614,894,46493
+2015,"Rhode Island","Leisure and hospitality",3602,56224,1149990822,393,20454
+2015,"Rhode Island","Other services",3286,17704,552956023,601,31234
+2015,"Rhode Island","Unclassified",57,41,2009568,954,49619
+2015,"South Carolina","Natural resources and mining",1172,12021,448559373,718,37313
+2015,"South Carolina","Construction",10842,86933,4172269926,923,47994
+2015,"South Carolina","Manufacturing",5408,235855,13353404782,1089,56617
+2015,"South Carolina","Trade, transportation, and utilities",29364,383416,14309304722,718,37321
+2015,"South Carolina","Information",2074,27012,1542267201,1098,57097
+2015,"South Carolina","Financial activities",11736,94979,5337773773,1081,56200
+2015,"South Carolina","Professional and business services",23533,262374,12217127982,895,46564
+2015,"South Carolina","Education and health services",10990,215100,9427337094,843,43828
+2015,"South Carolina","Leisure and hospitality",11856,238821,4047819048,326,16949
+2015,"South Carolina","Other services",11369,50694,1577276135,598,31114
+2015,"South Dakota","Natural resources and mining",937,6215,251406050,778,40451
+2015,"South Dakota","Construction",3770,22201,998948993,865,44995
+2015,"South Dakota","Manufacturing",1078,42593,1935185046,874,45434
+2015,"South Dakota","Trade, transportation, and utilities",7922,86552,3206110225,712,37042
+2015,"South Dakota","Information",557,5884,269779692,882,45847
+2015,"South Dakota","Financial activities",3200,29160,1560193173,1029,53505
+2015,"South Dakota","Professional and business services",4704,30672,1564275213,981,51000
+2015,"South Dakota","Education and health services",2682,63951,2995078472,901,46834
+2015,"South Dakota","Leisure and hospitality",3065,46137,718112025,299,15565
+2015,"South Dakota","Other services",2152,10713,318057721,571,29690
+2015,"Tennessee","Natural resources and mining",1020,11296,475847861,810,42126
+2015,"Tennessee","Construction",11158,112795,5960206936,1016,52841
+2015,"Tennessee","Manufacturing",6455,332381,19055758200,1103,57331
+2015,"Tennessee","Trade, transportation, and utilities",38635,598901,25637866215,823,42808
+2015,"Tennessee","Information",2849,43448,2727171863,1207,62768
+2015,"Tennessee","Financial activities",14748,140966,9650756418,1317,68462
+2015,"Tennessee","Professional and business services",26867,393041,21284119202,1041,54152
+2015,"Tennessee","Education and health services",15262,401245,19728981055,946,49169
+2015,"Tennessee","Leisure and hospitality",14850,307821,6497640341,406,21108
+2015,"Tennessee","Other services",13764,72073,2356055862,629,32690
+2015,"Tennessee","Unclassified",233,270,18045982,1285,66796
+2015,"Texas","Natural resources and mining",20416,329887,35873295851,2091,108744
+2015,"Texas","Construction",45783,683641,41386529749,1164,60538
+2015,"Texas","Manufacturing",23461,877939,63939327707,1401,72829
+2015,"Texas","Trade, transportation, and utilities",142976,2370913,117447064870,953,49537
+2015,"Texas","Information",8812,200735,16022591836,1535,79820
+2015,"Texas","Financial activities",66416,705611,53577629352,1460,75931
+2015,"Texas","Professional and business services",120430,1595531,109365790187,1318,68545
+2015,"Texas","Education and health services",80130,1515400,68922200064,875,45481
+2015,"Texas","Leisure and hospitality",56351,1241135,25097800276,389,20222
+2015,"Texas","Other services",55316,320598,11558832848,693,36054
+2015,"Texas","Unclassified",2666,4379,203974700,896,46583
+2015,"Utah","Natural resources and mining",1122,15812,991055346,1205,62679
+2015,"Utah","Construction",10079,84679,3939439765,895,46522
+2015,"Utah","Manufacturing",4004,122873,6707611493,1050,54590
+2015,"Utah","Trade, transportation, and utilities",18280,260939,10504280204,774,40256
+2015,"Utah","Information",2156,33204,2241173876,1298,67497
+2015,"Utah","Financial activities",10549,79027,4958592491,1207,62746
+2015,"Utah","Professional and business services",20019,192290,10149388207,1015,52782
+2015,"Utah","Education and health services",10886,166354,6782081929,784,40769
+2015,"Utah","Leisure and hospitality",6650,133616,2405373579,346,18002
+2015,"Utah","Other services",5824,33647,1109857717,634,32985
+2015,"Utah","Unclassified",100,104,6718756,1242,64603
+2015,"Vermont","Natural resources and mining",525,3831,137763484,691,35958
+2015,"Vermont","Construction",2778,15177,712091158,902,46919
+2015,"Vermont","Manufacturing",1048,30897,1729165173,1076,55965
+2015,"Vermont","Trade, transportation, and utilities",5145,55305,2112416010,735,38196
+2015,"Vermont","Information",484,4630,260493964,1082,56258
+2015,"Vermont","Financial activities",1656,11708,757754322,1245,64723
+2015,"Vermont","Professional and business services",4918,27420,1635389976,1147,59643
+2015,"Vermont","Education and health services",2343,60106,2616944422,837,43539
+2015,"Vermont","Leisure and hospitality",2238,36072,759901399,405,21066
+2015,"Vermont","Other services",1993,8952,293016592,629,32733
+2015,"Virginia","Natural resources and mining",2034,19684,872577496,853,44330
+2015,"Virginia","Construction",21073,184358,9505518692,992,51560
+2015,"Virginia","Manufacturing",6148,232652,13442162388,1111,57778
+2015,"Virginia","Trade, transportation, and utilities",43187,647248,26268023361,780,40584
+2015,"Virginia","Information",3946,69505,6624319781,1833,95307
+2015,"Virginia","Financial activities",20665,184987,14322393560,1489,77424
+2015,"Virginia","Professional and business services",54690,697794,57190207687,1576,81959
+2015,"Virginia","Education and health services",42695,478617,22318129673,897,46630
+2015,"Virginia","Leisure and hospitality",19531,384750,7367294568,368,19148
+2015,"Virginia","Other services",25744,134593,5533627154,791,41114
+2015,"Virginia","Unclassified",7037,9595,444587222,891,46335
+2015,"Washington","Natural resources and mining",7677,104797,3066450709,563,29261
+2015,"Washington","Construction",23296,162859,9269816289,1095,56919
+2015,"Washington","Manufacturing",7442,287553,21238247547,1420,73859
+2015,"Washington","Trade, transportation, and utilities",40405,575858,28213833197,942,48994
+2015,"Washington","Information",3964,113643,17096193436,2893,150438
+2015,"Washington","Financial activities",16878,139643,10138649598,1396,72604
+2015,"Washington","Professional and business services",36317,379936,27303891172,1382,71864
+2015,"Washington","Education and health services",59732,427193,19973079716,899,46754
+2015,"Washington","Leisure and hospitality",19540,305403,6724508897,423,22018
+2015,"Washington","Other services",19086,92111,3353773128,700,36410
+2015,"Washington","Unclassified",121,24,871352,693,36056
+2015,"West Virginia","Natural resources and mining",1329,26900,2033704744,1454,75603
+2015,"West Virginia","Construction",4503,32406,1730355347,1027,53397
+2015,"West Virginia","Manufacturing",1293,47652,2660417684,1074,55831
+2015,"West Virginia","Trade, transportation, and utilities",11126,132875,4781311935,692,35983
+2015,"West Virginia","Information",696,9625,494250360,988,51353
+2015,"West Virginia","Financial activities",3992,24885,1174212279,907,47185
+2015,"West Virginia","Professional and business services",7821,67070,3036909116,871,45280
+2015,"West Virginia","Education and health services",5547,122456,5138685606,807,41964
+2015,"West Virginia","Leisure and hospitality",4599,74581,1245321302,321,16698
+2015,"West Virginia","Other services",5139,20539,581667927,545,28320
+2015,"West Virginia","Unclassified",140,184,10941235,1142,59383
+2015,"Wisconsin","Natural resources and mining",2731,30221,1104285358,703,36541
+2015,"Wisconsin","Construction",13766,109201,6250780232,1101,57241
+2015,"Wisconsin","Manufacturing",9316,465512,25784319042,1065,55389
+2015,"Wisconsin","Trade, transportation, and utilities",34989,527640,20175574692,735,38237
+2015,"Wisconsin","Information",1948,48751,3302644526,1303,67745
+2015,"Wisconsin","Financial activities",12890,146661,9581563870,1256,65331
+2015,"Wisconsin","Professional and business services",22924,312031,17195740571,1060,55109
+2015,"Wisconsin","Education and health services",22263,413046,18874000871,879,45695
+2015,"Wisconsin","Leisure and hospitality",15970,269664,4333200536,309,16069
+2015,"Wisconsin","Other services",14827,83625,2269081820,522,27134
+2015,"Wisconsin","Unclassified",7732,10344,435239121,809,42077
+2015,"Wyoming","Natural resources and mining",1535,26459,2183611533,1587,82527
+2015,"Wyoming","Construction",3493,23256,1187641806,982,51068
+2015,"Wyoming","Manufacturing",617,9759,612906141,1208,62803
+2015,"Wyoming","Trade, transportation, and utilities",4978,53338,2166347752,781,40615
+2015,"Wyoming","Information",377,3771,171481128,874,45471
+2015,"Wyoming","Financial activities",2239,11125,595102068,1029,53494
+2015,"Wyoming","Professional and business services",4401,18494,931306396,968,50357
+2015,"Wyoming","Education and health services",2928,25965,1081508610,801,41653
+2015,"Wyoming","Leisure and hospitality",2314,36132,684529438,364,18945
+2015,"Wyoming","Other services",1697,7699,275787522,689,35822

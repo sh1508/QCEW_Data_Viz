@@ -1,0 +1,545 @@
+"year","state","industry","ann_avg_establishment_count","ann_avg_employment","ann_total_wages","ann_avg_weekly_wage","ann_avg_pay"
+2019,"Alabama","Natural resources and mining",1846,18939,1070584983,1087,56529
+2019,"Alabama","Construction",10069,93619,5255826512,1080,56141
+2019,"Alabama","Manufacturing",5677,268948,15741980056,1126,58532
+2019,"Alabama","Trade, transportation, and utilities",32423,380193,16510099753,835,43426
+2019,"Alabama","Information",2309,21296,1338323354,1209,62845
+2019,"Alabama","Financial activities",13590,95053,6755965565,1367,71076
+2019,"Alabama","Professional and business services",22186,251073,14326462151,1097,57061
+2019,"Alabama","Education and health services",13692,238078,11376418825,919,47785
+2019,"Alabama","Leisure and hospitality",11180,208446,3672389684,339,17618
+2019,"Alabama","Other services",10189,46816,1807422038,742,38607
+2019,"Alaska","Natural resources and mining",540,14657,1914228370,2512,130600
+2019,"Alaska","Construction",2450,16396,1332305338,1563,81257
+2019,"Alaska","Manufacturing",592,13065,688781885,1014,52718
+2019,"Alaska","Trade, transportation, and utilities",4318,64591,3177812841,946,49199
+2019,"Alaska","Information",387,5342,361730128,1302,67720
+2019,"Alaska","Financial activities",1407,11367,691295848,1170,60818
+2019,"Alaska","Professional and business services",3491,27690,1814117177,1260,65515
+2019,"Alaska","Education and health services",2590,50050,2770005936,1064,55345
+2019,"Alaska","Leisure and hospitality",2687,36224,910313119,483,25130
+2019,"Alaska","Other services",1664,9872,403446106,786,40868
+2019,"Alaska","Unclassified",38,46,1869603,782,40644
+2019,"Arizona","Natural resources and mining",1358,37970,1984385939,1005,52262
+2019,"Arizona","Construction",13677,171309,10042249905,1127,58621
+2019,"Arizona","Manufacturing",5157,177610,14025118505,1519,78966
+2019,"Arizona","Trade, transportation, and utilities",33190,541793,26018666912,924,48023
+2019,"Arizona","Information",3691,49188,3827885511,1497,77822
+2019,"Arizona","Financial activities",19357,223263,16661550488,1435,74627
+2019,"Arizona","Professional and business services",38940,445648,26245178083,1133,58892
+2019,"Arizona","Education and health services",19924,457984,24104606963,1012,52632
+2019,"Arizona","Leisure and hospitality",14256,331295,8466785875,491,25557
+2019,"Arizona","Other services",10674,75782,3028657151,769,39965
+2019,"Arizona","Unclassified",1889,1196,65440295,1052,54705
+2019,"Arkansas","Natural resources and mining",2577,16390,791619018,929,48299
+2019,"Arkansas","Construction",7093,52538,2602793022,953,49541
+2019,"Arkansas","Manufacturing",2930,162214,7981241823,946,49202
+2019,"Arkansas","Trade, transportation, and utilities",21821,248631,10665532959,825,42897
+2019,"Arkansas","Information",1303,10974,636305531,1115,57981
+2019,"Arkansas","Financial activities",8591,51934,3126340012,1158,60198
+2019,"Arkansas","Professional and business services",14911,145841,9239539223,1218,63354
+2019,"Arkansas","Education and health services",15780,187607,8251495435,846,43983
+2019,"Arkansas","Leisure and hospitality",7315,120644,2087045372,333,17299
+2019,"Arkansas","Other services",5359,25279,912930040,695,36115
+2019,"California","Natural resources and mining",17663,443581,17852176061,774,40246
+2019,"California","Construction",84247,885668,64957714046,1410,73343
+2019,"California","Manufacturing",44539,1322455,129893887153,1889,98222
+2019,"California","Trade, transportation, and utilities",198955,3042089,167035136130,1056,54908
+2019,"California","Information",28529,550084,105218867049,3678,191278
+2019,"California","Financial activities",109980,841829,94922425650,2168,112757
+2019,"California","Professional and business services",215691,2723437,259673224091,1834,95348
+2019,"California","Education and health services",639529,2734574,147417298171,1037,53909
+2019,"California","Leisure and hospitality",116191,2034920,65887809952,623,32379
+2019,"California","Other services",97442,547972,23175484367,813,42293
+2019,"California","Unclassified",337,970,50612912,1003,52169
+2019,"Colorado","Natural resources and mining",3279,48392,4371167960,1737,90328
+2019,"Colorado","Construction",20430,178880,11556232731,1242,64603
+2019,"Colorado","Manufacturing",5849,150109,11098269089,1422,73935
+2019,"Colorado","Trade, transportation, and utilities",36041,474011,24968518293,1013,52675
+2019,"Colorado","Information",4330,76292,8344841899,2103,109380
+2019,"Colorado","Financial activities",24028,167272,14822538607,1704,88613
+2019,"Colorado","Professional and business services",55003,439613,38016597369,1663,86477
+2019,"Colorado","Education and health services",21747,341496,17621344015,992,51600
+2019,"Colorado","Leisure and hospitality",17317,344935,9358430763,522,27131
+2019,"Colorado","Other services",17008,84571,3584224085,815,42381
+2019,"Colorado","Unclassified",2544,2562,169147464,1269,66013
+2019,"Connecticut","Natural resources and mining",437,5258,217936503,797,41449
+2019,"Connecticut","Construction",9496,59731,4325324428,1393,72413
+2019,"Connecticut","Manufacturing",4405,161899,13765334462,1635,85024
+2019,"Connecticut","Trade, transportation, and utilities",24868,291966,15339921446,1010,52540
+2019,"Connecticut","Information",2551,31469,3789057545,2316,120406
+2019,"Connecticut","Financial activities",11028,121869,19210096745,3031,157629
+2019,"Connecticut","Professional and business services",23755,218815,20161441010,1772,92139
+2019,"Connecticut","Education and health services",13478,330418,18972231751,1104,57419
+2019,"Connecticut","Leisure and hospitality",10917,157574,3852893521,470,24451
+2019,"Connecticut","Other services",18146,66497,2318124838,670,34861
+2019,"Connecticut","Unclassified",561,321,29300075,1757,91372
+2019,"Delaware","Natural resources and mining",180,1471,61980801,810,42123
+2019,"Delaware","Construction",3007,22909,1431365481,1202,62481
+2019,"Delaware","Manufacturing",663,27298,1806919537,1273,66194
+2019,"Delaware","Trade, transportation, and utilities",7005,79487,3373443470,816,42440
+2019,"Delaware","Information",497,3905,273449341,1347,70031
+2019,"Delaware","Financial activities",2907,48162,4692263674,1874,97426
+2019,"Delaware","Professional and business services",9421,63844,5277218601,1590,82658
+2019,"Delaware","Education and health services",5386,76932,4253136167,1063,55284
+2019,"Delaware","Leisure and hospitality",2710,53038,1127813457,409,21264
+2019,"Delaware","Other services",2052,12125,432068434,685,35636
+2019,"District of Columbia","Natural resources and mining",5,37,1567431,826,42943
+2019,"District of Columbia","Construction",1092,14818,1090335913,1415,73580
+2019,"District of Columbia","Manufacturing",199,1331,119017841,1719,89403
+2019,"District of Columbia","Trade, transportation, and utilities",3289,32893,2000698402,1170,60825
+2019,"District of Columbia","Information",1445,19974,2775113213,2672,138937
+2019,"District of Columbia","Financial activities",2444,27581,4197754060,2927,152197
+2019,"District of Columbia","Professional and business services",13542,170678,20738358479,2337,121506
+2019,"District of Columbia","Education and health services",4189,116622,7745948014,1277,66419
+2019,"District of Columbia","Leisure and hospitality",3165,81545,3420738334,807,41949
+2019,"District of Columbia","Other services",10581,73653,6967811473,1819,94604
+2019,"District of Columbia","Unclassified",382,408,29901453,1408,73213
+2019,"Florida","Natural resources and mining",5304,71329,2542508424,685,35645
+2019,"Florida","Construction",74711,563526,29806293068,1017,52893
+2019,"Florida","Manufacturing",20799,383956,24525932223,1228,63877
+2019,"Florida","Trade, transportation, and utilities",140278,1799930,83213567123,889,46232
+2019,"Florida","Information",11744,138845,11961905791,1657,86153
+2019,"Florida","Financial activities",76648,585959,45133689878,1481,77025
+2019,"Florida","Professional and business services",170397,1391050,88665057961,1226,63740
+2019,"Florida","Education and health services",76615,1324281,68913743470,1001,52039
+2019,"Florida","Leisure and hospitality",58596,1257201,33535617786,513,26675
+2019,"Florida","Other services",56765,281975,10706369141,730,37969
+2019,"Florida","Unclassified",19948,10423,652287736,1203,62582
+2019,"Georgia","Natural resources and mining",2662,29910,1293842379,832,43258
+2019,"Georgia","Construction",21408,203951,12988150957,1225,63683
+2019,"Georgia","Manufacturing",10066,404085,23536286465,1120,58246
+2019,"Georgia","Trade, transportation, and utilities",61774,938063,46731426752,958,49817
+2019,"Georgia","Information",5380,116215,11675192231,1932,100462
+2019,"Georgia","Financial activities",26961,242468,21022185511,1667,86701
+2019,"Georgia","Professional and business services",56304,717238,51541753171,1382,71861
+2019,"Georgia","Education and health services",29998,580134,31217022754,1035,53810
+2019,"Georgia","Leisure and hospitality",25254,498529,10639403399,410,21342
+2019,"Georgia","Other services",18227,111902,4249062782,730,37971
+2019,"Georgia","Unclassified",22245,17233,1205459463,1345,69951
+2019,"Hawaii","Natural resources and mining",521,5923,244059521,792,41204
+2019,"Hawaii","Construction",3951,36980,2844600372,1479,76923
+2019,"Hawaii","Manufacturing",1032,14010,650981079,894,46465
+2019,"Hawaii","Trade, transportation, and utilities",7979,125393,5713363457,876,45564
+2019,"Hawaii","Information",758,8728,585669339,1290,67104
+2019,"Hawaii","Financial activities",3869,29428,2040738376,1334,69348
+2019,"Hawaii","Professional and business services",8246,74329,4345882101,1124,58468
+2019,"Hawaii","Education and health services",5174,87063,4843152709,1070,55628
+2019,"Hawaii","Leisure and hospitality",5030,126548,4486748212,682,35455
+2019,"Hawaii","Other services",4180,27194,1041101682,736,38284
+2019,"Hawaii","Unclassified",1391,910,62264992,1316,68411
+2019,"Idaho","Natural resources and mining",2401,26555,1091538827,790,41105
+2019,"Idaho","Construction",8175,50684,2344572166,890,46258
+2019,"Idaho","Manufacturing",2680,68404,4273859177,1202,62480
+2019,"Idaho","Trade, transportation, and utilities",11892,142186,5905388465,799,41533
+2019,"Idaho","Information",1231,8802,494763946,1081,56211
+2019,"Idaho","Financial activities",5859,33273,1979891024,1144,59504
+2019,"Idaho","Professional and business services",11359,94181,5186742075,1059,55072
+2019,"Idaho","Education and health services",8163,105424,4583283208,836,43475
+2019,"Idaho","Leisure and hospitality",5038,82521,1466358515,342,17770
+2019,"Idaho","Other services",3845,19414,633178052,627,32615
+2019,"Illinois","Natural resources and mining",2825,26828,1400341565,1004,52197
+2019,"Illinois","Construction",32686,227968,16823734094,1419,73799
+2019,"Illinois","Manufacturing",18066,585894,42664292612,1400,72819
+2019,"Illinois","Trade, transportation, and utilities",78822,1187941,63641858090,1030,53573
+2019,"Illinois","Information",6998,94879,9177747727,1860,96732
+2019,"Illinois","Financial activities",32792,381941,43193947908,2175,113091
+2019,"Illinois","Professional and business services",75870,948055,74164868442,1504,78228
+2019,"Illinois","Education and health services",35102,924699,48119129174,1001,52038
+2019,"Illinois","Leisure and hospitality",33183,622987,15389465974,475,24703
+2019,"Illinois","Other services",39884,209967,9178417718,841,43714
+2019,"Illinois","Unclassified",9591,698,32670946,900,46795
+2019,"Indiana","Natural resources and mining",2255,21475,1078960378,966,50243
+2019,"Indiana","Construction",15232,145851,8759337024,1155,60057
+2019,"Indiana","Manufacturing",9083,541099,34262455953,1218,63320
+2019,"Indiana","Trade, transportation, and utilities",40283,594348,25762269514,834,43345
+2019,"Indiana","Information",2278,28628,1787644715,1201,62444
+2019,"Indiana","Financial activities",16940,135547,9145263475,1297,67469
+2019,"Indiana","Professional and business services",30165,346667,18656486215,1035,53817
+2019,"Indiana","Education and health services",16247,468491,23006415014,944,49107
+2019,"Indiana","Leisure and hospitality",15776,313889,6170973628,378,19660
+2019,"Indiana","Other services",12916,89273,3013717227,649,33759
+2019,"Indiana","Unclassified",2097,120,3042069,490,25457
+2019,"Iowa","Natural resources and mining",2916,23431,1032997176,848,44087
+2019,"Iowa","Construction",9462,78134,4606922071,1134,58962
+2019,"Iowa","Manufacturing",4132,226152,13610888301,1157,60185
+2019,"Iowa","Trade, transportation, and utilities",23557,307822,12745856718,796,41407
+2019,"Iowa","Information",1778,21356,1295534853,1167,60664
+2019,"Iowa","Financial activities",10414,110010,8384002439,1466,76212
+2019,"Iowa","Professional and business services",16421,139337,7908088760,1091,56755
+2019,"Iowa","Education and health services",11966,219013,9722422335,854,44392
+2019,"Iowa","Leisure and hospitality",8796,144265,2490158900,332,17261
+2019,"Iowa","Other services",8547,42519,1553376056,703,36534
+2019,"Kansas","Natural resources and mining",2612,19353,925117409,919,47802
+2019,"Kansas","Construction",7399,63735,3634833495,1097,57030
+2019,"Kansas","Manufacturing",3105,167196,9973573414,1147,59652
+2019,"Kansas","Trade, transportation, and utilities",19844,262383,11423915985,837,43539
+2019,"Kansas","Information",1386,18137,1204899735,1278,66434
+2019,"Kansas","Financial activities",8744,74336,5125495948,1326,68950
+2019,"Kansas","Professional and business services",16598,179211,11568687071,1241,64554
+2019,"Kansas","Education and health services",10085,197874,8688417811,844,43909
+2019,"Kansas","Leisure and hospitality",6871,130101,2255064656,333,17333
+2019,"Kansas","Other services",5938,34833,1240899922,685,35624
+2019,"Kentucky","Natural resources and mining",1561,18911,1067511704,1086,56448
+2019,"Kentucky","Construction",9517,80463,4473811702,1069,55601
+2019,"Kentucky","Manufacturing",4583,252626,15452230782,1176,61167
+2019,"Kentucky","Trade, transportation, and utilities",27892,401804,17744988553,849,44163
+2019,"Kentucky","Information",1924,21670,1269642972,1127,58590
+2019,"Kentucky","Financial activities",11201,93556,6538121049,1344,69885
+2019,"Kentucky","Professional and business services",20866,216049,11345053623,1010,52511
+2019,"Kentucky","Education and health services",18442,272579,13394718247,945,49141
+2019,"Kentucky","Leisure and hospitality",10118,201748,3702089358,353,18350
+2019,"Kentucky","Other services",10404,46571,1622804817,670,34846
+2019,"Kentucky","Unclassified",668,533,30348651,1094,56904
+2019,"Louisiana","Natural resources and mining",3133,44052,3868651960,1689,87820
+2019,"Louisiana","Construction",10991,142033,9223661695,1249,64940
+2019,"Louisiana","Manufacturing",4453,137729,10687811744,1492,77600
+2019,"Louisiana","Trade, transportation, and utilities",30876,376026,16386942299,838,43579
+2019,"Louisiana","Information",1801,22427,1359943071,1166,60638
+2019,"Louisiana","Financial activities",13852,84791,5391923367,1223,63590
+2019,"Louisiana","Professional and business services",25304,216009,12447218426,1108,57624
+2019,"Louisiana","Education and health services",16110,305742,13707067161,862,44832
+2019,"Louisiana","Leisure and hospitality",12912,237469,5174270481,419,21789
+2019,"Louisiana","Other services",9280,46391,1807536230,749,38963
+2019,"Louisiana","Unclassified",159,73,3956569,1042,54200
+2019,"Maine","Natural resources and mining",1447,7281,299645075,791,41157
+2019,"Maine","Construction",5605,29987,1548971070,993,51654
+2019,"Maine","Manufacturing",1870,53047,3035684059,1101,57227
+2019,"Maine","Trade, transportation, and utilities",10676,117746,4605645835,752,39115
+2019,"Maine","Information",869,7158,411175838,1105,57442
+2019,"Maine","Financial activities",3854,30481,2134604464,1347,70030
+2019,"Maine","Professional and business services",10504,69931,4258296489,1171,60893
+2019,"Maine","Education and health services",5474,120085,5925231716,949,49342
+2019,"Maine","Leisure and hospitality",5132,69501,1610261131,446,23169
+2019,"Maine","Other services",3777,17863,630945367,679,35322
+2019,"Maine","Unclassified",1250,1369,71118694,999,51937
+2019,"Maryland","Natural resources and mining",723,7194,321132667,859,44642
+2019,"Maryland","Construction",16694,166132,11263569214,1304,67799
+2019,"Maryland","Manufacturing",4145,112273,8871316955,1520,79016
+2019,"Maryland","Trade, transportation, and utilities",32640,463647,22024623115,914,47503
+2019,"Maryland","Information",2846,35678,3526236428,1901,98834
+2019,"Maryland","Financial activities",15512,135216,13254413858,1885,98024
+2019,"Maryland","Professional and business services",44172,461724,38125986698,1588,82573
+2019,"Maryland","Education and health services",21419,451332,25038204353,1067,55476
+2019,"Maryland","Leisure and hospitality",15043,282746,7000302966,476,24758
+2019,"Maryland","Other services",19358,91545,4041696992,849,44150
+2019,"Maryland","Unclassified",68,25,2232902,1706,88725
+2019,"Massachusetts","Natural resources and mining",1007,10500,670352119,1228,63846
+2019,"Massachusetts","Construction",21309,163062,13279110196,1566,81436
+2019,"Massachusetts","Manufacturing",6682,244258,21909539273,1725,89698
+2019,"Massachusetts","Trade, transportation, and utilities",41620,577282,31994561362,1066,55423
+2019,"Massachusetts","Information",5717,93033,11910341830,2462,128022
+2019,"Massachusetts","Financial activities",17883,218858,32295763144,2838,147565
+2019,"Massachusetts","Professional and business services",47892,605822,68986408768,2190,113872
+2019,"Massachusetts","Education and health services",68761,790552,47343095348,1152,59886
+2019,"Massachusetts","Leisure and hospitality",20740,379863,11206144488,567,29500
+2019,"Massachusetts","Other services",22046,121404,4907282341,777,40421
+2019,"Michigan","Natural resources and mining",3480,35622,1488954632,804,41799
+2019,"Michigan","Construction",21106,173015,11001657277,1223,63588
+2019,"Michigan","Manufacturing",16948,625676,42836630386,1317,68465
+2019,"Michigan","Trade, transportation, and utilities",55150,791177,38258655377,930,48357
+2019,"Michigan","Information",7146,55298,4285839714,1490,77504
+2019,"Michigan","Financial activities",19641,208812,15387667913,1417,73691
+2019,"Michigan","Professional and business services",44483,655188,46390392713,1362,70805
+2019,"Michigan","Education and health services",25357,661203,33619008308,978,50845
+2019,"Michigan","Leisure and hospitality",23113,434299,9172969636,406,21121
+2019,"Michigan","Other services",32480,140352,4818219122,660,34330
+2019,"Michigan","Unclassified",5065,10122,496944979,944,49096
+2019,"Minnesota","Natural resources and mining",3094,28134,1437820791,983,51107
+2019,"Minnesota","Construction",16700,127092,8862581801,1341,69734
+2019,"Minnesota","Manufacturing",8265,324018,22059835951,1309,68082
+2019,"Minnesota","Trade, transportation, and utilities",37323,525857,26568043354,972,50523
+2019,"Minnesota","Information",4133,46906,3932914921,1612,83846
+2019,"Minnesota","Financial activities",15855,182914,17865867346,1878,97673
+2019,"Minnesota","Professional and business services",32903,383591,32887380069,1649,85736
+2019,"Minnesota","Education and health services",20728,530749,27946961168,1013,52656
+2019,"Minnesota","Leisure and hospitality",15325,275608,6411046756,447,23261
+2019,"Minnesota","Other services",17266,91238,3236946427,682,35478
+2019,"Mississippi","Natural resources and mining",2110,15777,777215011,947,49263
+2019,"Mississippi","Construction",5771,44543,2268373762,979,50925
+2019,"Mississippi","Manufacturing",2396,146775,7348298923,963,50065
+2019,"Mississippi","Trade, transportation, and utilities",19568,229039,8616567928,723,37621
+2019,"Mississippi","Information",944,10695,528726190,951,49438
+2019,"Mississippi","Financial activities",7944,43109,2356854321,1051,54672
+2019,"Mississippi","Professional and business services",12421,108490,4667518794,827,43023
+2019,"Mississippi","Education and health services",7557,146077,6225762873,820,42620
+2019,"Mississippi","Leisure and hospitality",6514,136282,2428072207,343,17817
+2019,"Mississippi","Other services",4589,21043,762677961,697,36243
+2019,"Missouri","Natural resources and mining",2031,16899,757327926,862,44815
+2019,"Missouri","Construction",15133,126641,7821591121,1188,61762
+2019,"Missouri","Manufacturing",6681,277104,16559322401,1149,59758
+2019,"Missouri","Trade, transportation, and utilities",39400,536753,23427009366,839,43646
+2019,"Missouri","Information",3310,46729,4016812398,1653,85960
+2019,"Missouri","Financial activities",17951,166025,12516076325,1450,75387
+2019,"Missouri","Professional and business services",34349,382484,26276491068,1321,68700
+2019,"Missouri","Education and health services",52078,462462,21995864371,915,47562
+2019,"Missouri","Leisure and hospitality",15195,308646,6671196682,416,21614
+2019,"Missouri","Other services",13240,75829,2670967107,677,35224
+2019,"Montana","Natural resources and mining",1789,12792,859134081,1292,67162
+2019,"Montana","Construction",6432,29914,1614211226,1038,53962
+2019,"Montana","Manufacturing",1625,20972,1083536577,994,51666
+2019,"Montana","Trade, transportation, and utilities",9112,90946,3723099825,787,40937
+2019,"Montana","Information",799,6210,351448161,1088,56592
+2019,"Montana","Financial activities",4314,22199,1352061070,1171,60907
+2019,"Montana","Professional and business services",9482,43417,2368540273,1049,54553
+2019,"Montana","Education and health services",4834,74646,3676904904,947,49258
+2019,"Montana","Leisure and hospitality",5052,67008,1337117263,384,19955
+2019,"Montana","Other services",4153,18442,586301908,611,31791
+2019,"Montana","Unclassified",315,349,27436542,1514,78728
+2019,"Nebraska","Natural resources and mining",2414,15761,672771145,821,42685
+2019,"Nebraska","Construction",7038,53732,2890465194,1035,53794
+2019,"Nebraska","Manufacturing",1974,99914,5267069453,1014,52716
+2019,"Nebraska","Trade, transportation, and utilities",14969,188094,7816599852,799,41557
+2019,"Nebraska","Information",1015,17258,1151639857,1283,66732
+2019,"Nebraska","Financial activities",6842,67425,4657202204,1328,69072
+2019,"Nebraska","Professional and business services",11737,120560,7306269975,1165,60603
+2019,"Nebraska","Education and health services",11559,139275,6787591629,937,48735
+2019,"Nebraska","Leisure and hospitality",5609,93856,1615579647,331,17213
+2019,"Nebraska","Other services",4572,25509,856768217,646,33587
+2019,"Nevada","Natural resources and mining",618,19841,1713456274,1661,86362
+2019,"Nevada","Construction",5852,95939,6175083972,1238,64365
+2019,"Nevada","Manufacturing",2069,59279,3527005934,1144,59498
+2019,"Nevada","Trade, transportation, and utilities",15866,261018,11863811850,874,45452
+2019,"Nevada","Information",1664,15847,1160225895,1408,73213
+2019,"Nevada","Financial activities",9324,64932,4558482750,1350,70204
+2019,"Nevada","Professional and business services",20106,196204,12166213896,1192,62008
+2019,"Nevada","Education and health services",8934,143417,7860384048,1054,54808
+2019,"Nevada","Leisure and hospitality",8716,355178,12229669215,662,34432
+2019,"Nevada","Other services",5140,35449,1364030826,740,38479
+2019,"Nevada","Unclassified",3000,2988,246761944,1588,82584
+2019,"New Hampshire","Natural resources and mining",350,2627,115765402,848,44073
+2019,"New Hampshire","Construction",4692,27825,1804917129,1247,64868
+2019,"New Hampshire","Manufacturing",2012,71459,5216990918,1404,73007
+2019,"New Hampshire","Trade, transportation, and utilities",12448,139278,6881602058,950,49409
+2019,"New Hampshire","Information",1037,12334,1199013553,1869,97212
+2019,"New Hampshire","Financial activities",3881,33418,3345299945,1925,100104
+2019,"New Hampshire","Professional and business services",12808,83513,6735063807,1551,80647
+2019,"New Hampshire","Education and health services",4773,114430,6678483785,1122,58363
+2019,"New Hampshire","Leisure and hospitality",4675,73214,1668068526,438,22783
+2019,"New Hampshire","Other services",4011,21600,847495133,755,39236
+2019,"New Hampshire","Unclassified",422,642,62516163,1874,97453
+2019,"New Jersey","Natural resources and mining",998,12407,517776112,803,41732
+2019,"New Jersey","Construction",22556,159462,11902900355,1435,74644
+2019,"New Jersey","Manufacturing",8994,249464,20368334944,1570,81649
+2019,"New Jersey","Trade, transportation, and utilities",54227,876452,48383837175,1062,55204
+2019,"New Jersey","Information",3724,67578,7935899956,2258,117433
+2019,"New Jersey","Financial activities",20037,243892,28603055521,2255,117277
+2019,"New Jersey","Professional and business services",52040,677810,63729125801,1808,94022
+2019,"New Jersey","Education and health services",40687,670070,36937123271,1060,55124
+2019,"New Jersey","Leisure and hospitality",24526,391519,10315241007,507,26347
+2019,"New Jersey","Other services",24469,138255,5166978757,719,37373
+2019,"New Jersey","Unclassified",19293,23793,1527826166,1235,64214
+2019,"New Mexico","Natural resources and mining",2100,36949,2528290439,1316,68427
+2019,"New Mexico","Construction",5571,50153,2612509182,1002,52091
+2019,"New Mexico","Manufacturing",1810,28514,1589297800,1072,55737
+2019,"New Mexico","Trade, transportation, and utilities",10974,135131,5307208403,755,39275
+2019,"New Mexico","Information",1074,11166,642671680,1107,57554
+2019,"New Mexico","Financial activities",5460,33799,1952496046,1111,57768
+2019,"New Mexico","Professional and business services",11347,111478,7152003695,1234,64156
+2019,"New Mexico","Education and health services",10974,130181,5578551706,824,42852
+2019,"New Mexico","Leisure and hospitality",5277,99656,1950316349,376,19571
+2019,"New Mexico","Other services",4216,21214,751353417,681,35417
+2019,"New York","Natural resources and mining",3053,31787,1366573348,827,42992
+2019,"New York","Construction",50432,405650,30655126786,1453,75570
+2019,"New York","Manufacturing",16457,437040,30223213200,1330,69154
+2019,"New York","Trade, transportation, and utilities",120950,1543991,82927347597,1033,53710
+2019,"New York","Information",12812,277408,37716249791,2615,135959
+2019,"New York","Financial activities",63310,720818,138032479613,3683,191494
+2019,"New York","Professional and business services",112890,1368950,136368611882,1916,99615
+2019,"New York","Education and health services",67202,1981493,108264856979,1051,54638
+2019,"New York","Leisure and hospitality",65868,957897,34319784471,689,35828
+2019,"New York","Other services",72430,371218,16114425569,835,43410
+2019,"New York","Unclassified",41559,25316,1745813023,1326,68962
+2019,"North Carolina","Natural resources and mining",3378,29828,1218839975,786,40862
+2019,"North Carolina","Construction",27974,231739,13203080265,1096,56974
+2019,"North Carolina","Manufacturing",10247,477086,29147529064,1175,61095
+2019,"North Carolina","Trade, transportation, and utilities",62397,846177,37721898806,857,44579
+2019,"North Carolina","Information",5669,75919,6607904586,1674,87039
+2019,"North Carolina","Financial activities",28672,245903,22103165805,1729,89886
+2019,"North Carolina","Professional and business services",61321,649747,43991240630,1302,67705
+2019,"North Carolina","Education and health services",28199,606564,30402635762,964,50123
+2019,"North Carolina","Leisure and hospitality",26474,515152,10540184842,393,20460
+2019,"North Carolina","Other services",24457,115119,4216151073,704,36624
+2019,"Ohio","Natural resources and mining",2531,28532,1479655370,997,51860
+2019,"Ohio","Construction",23405,226563,14133716302,1200,62383
+2019,"North Dakota","Natural resources and mining",1784,25973,2528607848,1872,97355
+2019,"North Dakota","Construction",3692,27961,1905647457,1311,68153
+2019,"North Dakota","Manufacturing",808,26471,1460633084,1061,55179
+2019,"North Dakota","Trade, transportation, and utilities",7738,91333,4742511944,999,51925
+2019,"North Dakota","Information",402,6093,435935273,1376,71543
+2019,"North Dakota","Financial activities",2985,23264,1530358475,1265,65784
+2019,"North Dakota","Professional and business services",5198,32856,2099379224,1229,63897
+2019,"North Dakota","Education and health services",2581,65771,3458572167,1011,52585
+2019,"North Dakota","Leisure and hospitality",2610,40423,750779878,357,18573
+2019,"North Dakota","Other services",2047,11337,438685396,744,38696
+2019,"Ohio","Manufacturing",15486,700786,44064058944,1209,62878
+2019,"Ohio","Trade, transportation, and utilities",68958,1021890,46566119022,876,45569
+2019,"Ohio","Information",4915,69330,5034248999,1396,72613
+2019,"Ohio","Financial activities",29119,292556,22141562787,1455,75683
+2019,"Ohio","Professional and business services",54330,734963,49060486961,1284,66752
+2019,"Ohio","Education and health services",35525,908891,43527806601,921,47891
+2019,"Ohio","Leisure and hospitality",29035,570254,11517579223,388,20197
+2019,"Ohio","Other services",23639,157001,5495931475,673,35006
+2019,"Ohio","Unclassified",409,550,36530015,1277,66388
+2019,"Oklahoma","Natural resources and mining",4402,56786,5181703367,1755,91249
+2019,"Oklahoma","Construction",9801,82834,4509047110,1047,54435
+2019,"Oklahoma","Manufacturing",4213,140812,8441793479,1153,59951
+2019,"Oklahoma","Trade, transportation, and utilities",23883,300268,12926305444,828,43049
+2019,"Oklahoma","Information",1550,19627,1185605496,1162,60407
+2019,"Oklahoma","Financial activities",11672,77324,4625074506,1150,59814
+2019,"Oklahoma","Professional and business services",21148,194601,10672121956,1055,54841
+2019,"Oklahoma","Education and health services",13345,213244,9988466258,901,46841
+2019,"Oklahoma","Leisure and hospitality",9209,174213,3240413878,358,18600
+2019,"Oklahoma","Other services",6589,36706,1326966114,695,36151
+2019,"Oklahoma","Unclassified",4,3,212160,1224,63648
+2019,"Oregon","Natural resources and mining",4633,54550,2050316804,723,37586
+2019,"Oregon","Construction",14626,108871,6874965135,1214,63148
+2019,"Oregon","Manufacturing",6396,197626,14117594786,1374,71436
+2019,"Oregon","Trade, transportation, and utilities",26460,354168,16248807196,882,45879
+2019,"Oregon","Information",4135,35053,3141908341,1724,89633
+2019,"Oregon","Financial activities",13190,85425,6260901064,1409,73291
+2019,"Oregon","Professional and business services",26161,253667,18634417588,1413,73460
+2019,"Oregon","Education and health services",16113,295311,15309662721,997,51842
+2019,"Oregon","Leisure and hospitality",14116,213454,5084030065,458,23818
+2019,"Oregon","Other services",25468,78423,2781381804,682,35467
+2019,"Oregon","Unclassified",1595,1100,77360292,1353,70360
+2019,"Pennsylvania","Natural resources and mining",3616,52904,3439496257,1250,65014
+2019,"Pennsylvania","Construction",29139,260895,17900597762,1319,68612
+2019,"Pennsylvania","Manufacturing",14432,574751,36917078024,1235,64231
+2019,"Pennsylvania","Trade, transportation, and utilities",74684,1117033,51714146922,890,46296
+2019,"Pennsylvania","Information",5348,87043,8260437754,1825,94900
+2019,"Pennsylvania","Financial activities",29264,329745,29933583133,1746,90778
+2019,"Pennsylvania","Professional and business services",64541,816358,66681297436,1571,81681
+2019,"Pennsylvania","Education and health services",57945,1230922,65751109844,1027,53416
+2019,"Pennsylvania","Leisure and hospitality",33729,577911,12720365761,423,22011
+2019,"Pennsylvania","Other services",33082,202171,7102474049,676,35131
+2019,"Rhode Island","Natural resources and mining",198,1121,44750454,768,39917
+2019,"Rhode Island","Construction",3833,19980,1267031459,1220,63414
+2019,"Rhode Island","Manufacturing",1636,39736,2395539789,1159,60286
+2019,"Rhode Island","Trade, transportation, and utilities",7648,76672,3468050110,870,45232
+2019,"Rhode Island","Information",714,5878,449136005,1469,76409
+2019,"Rhode Island","Financial activities",2934,32223,2949594879,1760,91537
+2019,"Rhode Island","Professional and business services",9043,68259,4672605601,1316,68454
+2019,"Rhode Island","Education and health services",4664,102395,5166668320,970,50458
+2019,"Rhode Island","Leisure and hospitality",3873,60008,1420952931,455,23680
+2019,"Rhode Island","Other services",3537,18157,625799220,663,34466
+2019,"Rhode Island","Unclassified",70,48,3284526,1318,68547
+2019,"South Carolina","Natural resources and mining",1345,12552,551698736,845,43952
+2019,"South Carolina","Construction",12956,107028,5911145115,1062,55230
+2019,"South Carolina","Manufacturing",6414,258252,15714724185,1170,60850
+2019,"South Carolina","Trade, transportation, and utilities",31073,406455,16683964856,789,41048
+2019,"South Carolina","Information",2883,26869,1774217945,1270,66032
+2019,"South Carolina","Financial activities",14196,101755,6561253635,1240,64481
+2019,"South Carolina","Professional and business services",29329,298404,15663861467,1009,52492
+2019,"South Carolina","Education and health services",12757,237600,11237473079,910,47296
+2019,"South Carolina","Leisure and hospitality",13400,270473,5089160650,362,18816
+2019,"South Carolina","Other services",12142,54906,1887992398,661,34386
+2019,"South Carolina","Unclassified",5,11,288664,486,25284
+2019,"South Dakota","Natural resources and mining",1063,6986,304873986,839,43642
+2019,"South Dakota","Construction",3897,23609,1203978764,981,50997
+2019,"South Dakota","Manufacturing",1067,44972,2258420967,966,50219
+2019,"South Dakota","Trade, transportation, and utilities",8027,85125,3488388238,788,40980
+2019,"South Dakota","Information",589,5500,283432489,991,51535
+2019,"South Dakota","Financial activities",3315,28483,1808653470,1221,63499
+2019,"South Dakota","Professional and business services",5498,33117,1941262973,1127,58619
+2019,"South Dakota","Education and health services",2904,68913,3611880866,1008,52412
+2019,"South Dakota","Leisure and hospitality",3191,47413,830631219,337,17519
+2019,"South Dakota","Other services",2223,11326,387708367,658,34233
+2019,"Tennessee","Natural resources and mining",1107,11568,542128374,901,46865
+2019,"Tennessee","Construction",12487,130126,7648427094,1130,58777
+2019,"Tennessee","Manufacturing",7272,354961,21406038555,1160,60305
+2019,"Tennessee","Trade, transportation, and utilities",40380,633819,29783615612,904,46991
+2019,"Tennessee","Information",3981,45042,3395008305,1450,75375
+2019,"Tennessee","Financial activities",16270,157388,12245638383,1496,77805
+2019,"Tennessee","Professional and business services",30774,425933,26829358053,1211,62990
+2019,"Tennessee","Education and health services",16563,427328,22726692101,1023,53183
+2019,"Tennessee","Leisure and hospitality",16924,347181,8290044587,459,23878
+2019,"Tennessee","Other services",15931,80484,2915694369,697,36227
+2019,"Tennessee","Unclassified",310,520,31694752,1171,60912
+2019,"Texas","Natural resources and mining",19971,307800,35371776482,2210,114918
+2019,"Texas","Construction",53248,774190,52307476292,1299,67564
+2019,"Texas","Manufacturing",25577,905953,72263866118,1534,79766
+2019,"Texas","Trade, transportation, and utilities",150310,2496193,135599700908,1045,54323
+2019,"Texas","Information",10627,208591,18952054661,1747,90857
+2019,"Texas","Financial activities",76169,777574,67429354211,1668,86718
+2019,"Texas","Professional and business services",139953,1794316,138515804089,1485,77197
+2019,"Texas","Education and health services",94237,1684606,83087900086,948,49322
+2019,"Texas","Leisure and hospitality",65057,1394036,31731633542,438,22762
+2019,"Texas","Other services",57504,343287,14112570404,791,41110
+2019,"Texas","Unclassified",5487,7999,388704172,935,48595
+2019,"Utah","Natural resources and mining",1032,15160,964252294,1223,63604
+2019,"Utah","Construction",12212,109486,5849638448,1027,53428
+2019,"Utah","Manufacturing",4547,136085,8086988926,1143,59426
+2019,"Utah","Trade, transportation, and utilities",20066,289140,13238301229,880,45785
+2019,"Utah","Information",2776,38323,3247282618,1630,84735
+2019,"Utah","Financial activities",11885,90007,6387534480,1365,70967
+2019,"Utah","Professional and business services",24485,221851,14340665114,1243,64641
+2019,"Utah","Education and health services",12857,193373,8698547935,865,44983
+2019,"Utah","Leisure and hospitality",7570,153412,3214743993,403,20955
+2019,"Utah","Other services",6492,37200,1390899010,719,37389
+2019,"Utah","Unclassified",133,113,10874101,1849,96160
+2019,"Vermont","Natural resources and mining",564,4130,163563126,762,39607
+2019,"Vermont","Construction",2846,15283,803647807,1011,52585
+2019,"Vermont","Manufacturing",1108,30091,1829764133,1169,60807
+2019,"Vermont","Trade, transportation, and utilities",5040,53817,2231042652,797,41456
+2019,"Vermont","Information",527,4322,271684989,1209,62861
+2019,"Vermont","Financial activities",1709,11948,891807266,1435,74642
+2019,"Vermont","Professional and business services",5970,29394,2027791860,1327,68986
+2019,"Vermont","Education and health services",2503,62317,3022412512,933,48501
+2019,"Vermont","Leisure and hospitality",2268,37208,887864488,459,23863
+2019,"Vermont","Other services",1990,8772,328018916,719,37394
+2019,"Virginia","Natural resources and mining",2095,18691,910319177,937,48704
+2019,"Virginia","Construction",21468,202134,12229919568,1164,60504
+2019,"Virginia","Manufacturing",6864,242160,14854390585,1180,61341
+2019,"Virginia","Trade, transportation, and utilities",42839,650148,29572890958,875,45486
+2019,"Virginia","Information",4600,67714,7310785469,2076,107966
+2019,"Virginia","Financial activities",22249,198459,17470154572,1693,88029
+2019,"Virginia","Professional and business services",59342,762590,68882823012,1737,90327
+2019,"Virginia","Education and health services",50144,517645,26335859560,978,50876
+2019,"Virginia","Leisure and hospitality",20743,408354,8813195975,415,21582
+2019,"Virginia","Other services",29777,140456,6339661360,868,45136
+2019,"Virginia","Unclassified",12138,18662,817850393,843,43825
+2019,"Washington","Natural resources and mining",7117,105362,3639905358,664,34547
+2019,"Washington","Construction",26472,205717,13954318915,1304,67833
+2019,"Washington","Manufacturing",7824,290326,23582649897,1562,81228
+2019,"Washington","Trade, transportation, and utilities",38692,628543,42308361729,1294,67312
+2019,"Washington","Information",5007,143883,29803198585,3983,207135
+2019,"Washington","Financial activities",17624,150178,12801428810,1639,85242
+2019,"Washington","Professional and business services",41249,425615,36373152047,1643,85460
+2019,"Washington","Education and health services",64023,478274,25476407748,1024,53267
+2019,"Washington","Leisure and hospitality",20637,341265,9066044029,511,26566
+2019,"Washington","Other services",19915,102632,4370550963,819,42585
+2019,"Washington","Unclassified",17,11,504026,855,44473
+2019,"West Virginia","Natural resources and mining",1166,23333,1877632812,1547,80470
+2019,"West Virginia","Construction",4338,35459,2285707444,1240,64460
+2019,"West Virginia","Manufacturing",1251,46979,2869153531,1174,61074
+2019,"West Virginia","Trade, transportation, and utilities",10709,125470,5037329105,772,40148
+2019,"West Virginia","Information",818,8072,430077048,1025,53281
+2019,"West Virginia","Financial activities",4003,24569,1339719289,1049,54528
+2019,"West Virginia","Professional and business services",8381,69069,3604014699,1003,52180
+2019,"West Virginia","Education and health services",5755,125528,6009777227,921,47876
+2019,"West Virginia","Leisure and hospitality",4658,75027,1369683635,351,18256
+2019,"West Virginia","Other services",5797,20164,646856205,617,32080
+2019,"West Virginia","Unclassified",85,138,7077810,984,51165
+2019,"Wisconsin","Natural resources and mining",2876,31424,1264030172,774,40225
+2019,"Wisconsin","Construction",14823,124384,7944870031,1228,63874
+2019,"Wisconsin","Manufacturing",9333,483196,28548795126,1136,59083
+2019,"Wisconsin","Trade, transportation, and utilities",36253,533175,22738499428,820,42647
+2019,"Wisconsin","Information",2335,46993,3877496218,1587,82512
+2019,"Wisconsin","Financial activities",14066,150327,11130275007,1424,74040
+2019,"Wisconsin","Professional and business services",26927,326120,20608222437,1215,63192
+2019,"Wisconsin","Education and health services",29257,440255,22431248051,980,50951
+2019,"Wisconsin","Leisure and hospitality",17015,285279,5351305278,361,18758
+2019,"Wisconsin","Other services",13757,84267,2688793371,614,31908
+2019,"Wisconsin","Unclassified",2099,1551,68145829,845,43949
+2019,"Wyoming","Natural resources and mining",1463,23524,2034009549,1663,86467
+2019,"Wyoming","Construction",3427,22875,1313415528,1104,57417
+2019,"Wyoming","Manufacturing",615,10043,690345162,1322,68738
+2019,"Wyoming","Trade, transportation, and utilities",4819,49901,2216031158,854,44408
+2019,"Wyoming","Information",417,3424,167875801,943,49035
+2019,"Wyoming","Financial activities",2306,11180,680263665,1170,60849
+2019,"Wyoming","Professional and business services",4728,19196,1079856332,1082,56253
+2019,"Wyoming","Education and health services",3384,27323,1204505941,848,44083
+2019,"Wyoming","Leisure and hospitality",2398,37041,814693630,423,21994
+2019,"Wyoming","Other services",1655,7188,282184510,755,39255
+2019,"Wyoming","Unclassified",46,50,4833851,1856,96516

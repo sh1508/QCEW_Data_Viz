@@ -1,0 +1,545 @@
+"year","state","industry","ann_avg_establishment_count","ann_avg_employment","ann_total_wages","ann_avg_weekly_wage","ann_avg_pay"
+2021,"Alabama","Natural resources and mining",1874,16871,1014951851,1157,60161
+2021,"Alabama","Construction",11035,94540,5817235776,1183,61532
+2021,"Alabama","Manufacturing",6050,264500,16556422238,1204,62595
+2021,"Alabama","Trade, transportation, and utilities",33232,393554,18936837014,925,48117
+2021,"Alabama","Information",3269,20048,1504127470,1443,75026
+2021,"Alabama","Financial activities",14544,96304,7752501843,1548,80500
+2021,"Alabama","Professional and business services",24932,253072,16204940519,1231,64033
+2021,"Alabama","Education and health services",17366,230985,12440300323,1036,53858
+2021,"Alabama","Leisure and hospitality",11661,188942,3902525993,397,20655
+2021,"Alabama","Other services",9357,44169,1932219387,841,43746
+2021,"Alaska","Natural resources and mining",569,11941,1697384857,2734,142154
+2021,"Alaska","Construction",2515,15913,1298124991,1569,81576
+2021,"Alaska","Manufacturing",632,12198,710085460,1119,58212
+2021,"Alaska","Trade, transportation, and utilities",4362,60988,3378876089,1065,55402
+2021,"Alaska","Information",437,4788,372942254,1498,77888
+2021,"Alaska","Financial activities",1570,10559,746737040,1360,70719
+2021,"Alaska","Professional and business services",3984,26412,1815349574,1322,68732
+2021,"Alaska","Education and health services",2745,49870,3068084696,1183,61522
+2021,"Alaska","Leisure and hospitality",2700,30381,856128005,542,28179
+2021,"Alaska","Other services",1777,9346,427933110,881,45786
+2021,"Alaska","Unclassified",156,113,7548663,1283,66704
+2021,"Arizona","Natural resources and mining",1362,34408,2077362356,1161,60374
+2021,"Arizona","Construction",14958,179028,11770632634,1264,65747
+2021,"Arizona","Manufacturing",5350,181837,15858316600,1677,87212
+2021,"Arizona","Trade, transportation, and utilities",35560,580570,31426956384,1041,54131
+2021,"Arizona","Information",4646,47568,4807568178,1944,101067
+2021,"Arizona","Financial activities",22549,233343,20488951530,1689,87806
+2021,"Arizona","Professional and business services",45894,448918,31189202999,1336,69476
+2021,"Arizona","Education and health services",21985,463620,27301416528,1132,58887
+2021,"Arizona","Leisure and hospitality",14900,305550,8924766048,562,29209
+2021,"Arizona","Other services",11760,74860,3493184180,897,46663
+2021,"Arizona","Unclassified",2514,3924,227162660,1113,57888
+2021,"Arkansas","Natural resources and mining",2554,15587,798673962,985,51238
+2021,"Arkansas","Construction",7491,55295,3005349993,1045,54351
+2021,"Arkansas","Manufacturing",3011,157204,8529978443,1043,54261
+2021,"Arkansas","Trade, transportation, and utilities",22033,251784,12428840010,949,49363
+2021,"Arkansas","Information",1970,11687,876278527,1442,74979
+2021,"Arkansas","Financial activities",9338,52880,3584281332,1303,67782
+2021,"Arkansas","Professional and business services",16614,145778,10630651801,1402,72924
+2021,"Arkansas","Education and health services",15423,181236,9083801754,964,50121
+2021,"Arkansas","Leisure and hospitality",7574,116086,2376121985,394,20469
+2021,"Arkansas","Other services",5564,24841,1026503188,795,41323
+2021,"Arkansas","Unclassified",1,0,28384,2183,113536
+2021,"California","Natural resources and mining",17667,428041,18697041784,840,43681
+2021,"California","Construction",88163,883326,69975163420,1523,79218
+2021,"California","Manufacturing",44506,1277555,152338558013,2293,119242
+2021,"California","Trade, transportation, and utilities",205044,3026395,191418022628,1216,63250
+2021,"California","Information",30551,560370,140779797695,4831,251226
+2021,"California","Financial activities",116126,828512,118836231683,2758,143433
+2021,"California","Professional and business services",229868,2712873,312727145294,2217,115275
+2021,"California","Education and health services",671412,2733125,166231953081,1170,60821
+2021,"California","Leisure and hospitality",118944,1642208,65154177597,763,39675
+2021,"California","Other services",97722,480799,23763956733,950,49426
+2021,"California","Unclassified",757,2101,116894521,1070,55629
+2021,"Colorado","Natural resources and mining",3294,39766,3568364954,1726,89735
+2021,"Colorado","Construction",21742,177263,12631243774,1370,71257
+2021,"Colorado","Manufacturing",5909,148649,12007735752,1553,80779
+2021,"Colorado","Trade, transportation, and utilities",37429,483572,28804714221,1146,59567
+2021,"Colorado","Information",5204,76303,10043792168,2531,131631
+2021,"Colorado","Financial activities",27061,170863,17817677882,2005,104280
+2021,"Colorado","Professional and business services",63925,453608,44934191679,1905,99060
+2021,"Colorado","Education and health services",24676,341329,19710875256,1111,57747
+2021,"Colorado","Leisure and hospitality",18116,305339,9494975803,598,31096
+2021,"Colorado","Other services",17930,81061,3924988576,931,48420
+2021,"Colorado","Unclassified",728,1215,94063806,1489,77408
+2021,"Connecticut","Natural resources and mining",488,5365,243625605,873,45414
+2021,"Connecticut","Construction",9423,59310,4573144739,1483,77106
+2021,"Connecticut","Manufacturing",4381,152851,13695238065,1723,89599
+2021,"Connecticut","Trade, transportation, and utilities",24969,289553,17061842113,1133,58925
+2021,"Connecticut","Information",3489,29926,4492047250,2887,150107
+2021,"Connecticut","Financial activities",11680,116064,20480571004,3393,176460
+2021,"Connecticut","Professional and business services",26006,213569,21189309951,1908,99215
+2021,"Connecticut","Education and health services",21163,325482,20682878487,1222,63545
+2021,"Connecticut","Leisure and hospitality",11096,134354,3811783205,546,28371
+2021,"Connecticut","Other services",12557,50455,2224384744,848,44086
+2021,"Connecticut","Unclassified",2473,1939,229889806,2280,118581
+2021,"Delaware","Natural resources and mining",186,1203,53918495,862,44814
+2021,"Delaware","Construction",3202,23217,1567434491,1298,67511
+2021,"Delaware","Manufacturing",703,24961,1757187642,1354,70397
+2021,"Delaware","Trade, transportation, and utilities",7135,80578,3927328502,937,48739
+2021,"Delaware","Information",667,3577,304267272,1636,85070
+2021,"Delaware","Financial activities",3124,47491,5089443113,2061,107167
+2021,"Delaware","Professional and business services",10513,63228,5660185455,1722,89521
+2021,"Delaware","Education and health services",5647,73899,4559098691,1186,61694
+2021,"Delaware","Leisure and hospitality",2735,45666,1132531871,477,24800
+2021,"Delaware","Other services",2167,11486,464065687,777,40402
+2021,"District of Columbia","Construction",1120,15054,1207662078,1543,80222
+2021,"District of Columbia","Trade, transportation, and utilities",3544,28895,2089103788,1390,72299
+2021,"District of Columbia","Information",1778,19698,3757143686,3668,190737
+2021,"District of Columbia","Financial activities",2758,26237,4444143952,3257,169386
+2021,"District of Columbia","Professional and business services",15152,166702,23204837399,2677,139200
+2021,"District of Columbia","Education and health services",4985,109534,8122927996,1426,74159
+2021,"District of Columbia","Leisure and hospitality",3226,49565,2364385716,917,47703
+2021,"District of Columbia","Other services",10916,68537,7198524316,2020,105032
+2021,"District of Columbia","Unclassified",296,283,22347826,1518,78944
+2021,"Florida","Natural resources and mining",5552,72050,3035354173,810,42129
+2021,"Florida","Construction",78470,576344,34043706811,1136,59068
+2021,"Florida","Manufacturing",22526,388057,27165955555,1346,70005
+2021,"Florida","Trade, transportation, and utilities",149984,1836749,98737652308,1034,53757
+2021,"Florida","Information",15731,139293,14541014493,2008,104391
+2021,"Florida","Financial activities",88306,615850,57841894059,1806,93922
+2021,"Florida","Professional and business services",199859,1459693,109103897358,1437,74744
+2021,"Florida","Education and health services",91143,1327182,78354308350,1135,59038
+2021,"Florida","Leisure and hospitality",62875,1122082,34819656907,597,31031
+2021,"Florida","Other services",57487,266132,11739963701,848,44113
+2021,"Florida","Unclassified",20394,8328,611524092,1412,73431
+2021,"Georgia","Natural resources and mining",2864,29053,1395337854,924,48027
+2021,"Georgia","Construction",24356,204732,14138575096,1328,69059
+2021,"Georgia","Manufacturing",11141,391941,24792837772,1216,63257
+2021,"Georgia","Trade, transportation, and utilities",66826,953404,52298504267,1055,54855
+2021,"Georgia","Information",6544,123177,14672326326,2291,119116
+2021,"Georgia","Financial activities",30498,248796,24542758058,1897,98646
+2021,"Georgia","Professional and business services",65196,733016,58096930135,1524,79257
+2021,"Georgia","Education and health services",33464,577120,35037378397,1168,60711
+2021,"Georgia","Leisure and hospitality",28380,447836,11027960287,474,24625
+2021,"Georgia","Other services",20181,106787,4678881144,843,43815
+2021,"Georgia","Unclassified",38914,23107,1952521925,1625,84499
+2021,"Hawaii","Construction",4005,36616,2939245802,1544,80273
+2021,"Hawaii","Trade, transportation, and utilities",7943,108876,5572041069,984,51178
+2021,"Hawaii","Information",1113,7875,687087402,1678,87254
+2021,"Hawaii","Financial activities",3908,26914,2261261772,1616,84017
+2021,"Hawaii","Professional and business services",8797,68073,4512184771,1275,66285
+2021,"Hawaii","Education and health services",6116,84302,5284122492,1205,62681
+2021,"Hawaii","Leisure and hospitality",5195,94477,3524912596,717,37310
+2021,"Hawaii","Other services",4365,23036,1011522170,844,43911
+2021,"Hawaii","Unclassified",3057,2563,205114115,1539,80019
+2021,"Idaho","Natural resources and mining",2651,26876,1230018973,880,45767
+2021,"Idaho","Construction",10594,57936,3023399382,1004,52185
+2021,"Idaho","Manufacturing",3182,70198,4704216194,1289,67013
+2021,"Idaho","Trade, transportation, and utilities",14011,155465,7440116628,920,47857
+2021,"Idaho","Information",1803,7976,627497915,1513,78672
+2021,"Idaho","Financial activities",7472,36559,2709495758,1425,74113
+2021,"Idaho","Professional and business services",15588,101805,6701189272,1266,65824
+2021,"Idaho","Education and health services",10309,111173,5390329322,932,48486
+2021,"Idaho","Leisure and hospitality",5653,83299,1739360930,402,20881
+2021,"Idaho","Other services",4499,19437,738727278,731,38007
+2021,"Idaho","Unclassified",10,0,25009,1924,100036
+2021,"Illinois","Natural resources and mining",2866,24884,1354305802,1047,54424
+2021,"Illinois","Construction",32742,222357,17489163015,1513,78653
+2021,"Illinois","Manufacturing",18501,554343,44031182712,1527,79429
+2021,"Illinois","Trade, transportation, and utilities",78852,1165883,69551655424,1147,59656
+2021,"Illinois","Information",7971,89390,11015878330,2370,123234
+2021,"Illinois","Financial activities",33621,376619,50150137080,2561,133159
+2021,"Illinois","Professional and business services",79187,926986,82530112983,1712,89031
+2021,"Illinois","Education and health services",40006,894028,51823330300,1115,57966
+2021,"Illinois","Leisure and hospitality",33064,502954,14184562197,542,28203
+2021,"Illinois","Other services",36204,190555,9597468854,969,50366
+2021,"Illinois","Unclassified",15253,150,15625188,2009,104458
+2021,"Indiana","Natural resources and mining",2334,20434,1055498642,993,51654
+2021,"Indiana","Construction",15916,149586,9764456076,1255,65276
+2021,"Indiana","Manufacturing",9292,524614,36138395392,1325,68886
+2021,"Indiana","Trade, transportation, and utilities",41544,603290,29676680909,946,49191
+2021,"Indiana","Information",2784,26137,1892244566,1392,72398
+2021,"Indiana","Financial activities",18243,135806,10406977157,1474,76631
+2021,"Indiana","Professional and business services",33989,347694,21804364745,1206,62711
+2021,"Indiana","Education and health services",17499,456065,25476105222,1074,55861
+2021,"Indiana","Leisure and hospitality",16085,283248,6355122872,431,22437
+2021,"Indiana","Other services",13289,84163,3251385064,743,38632
+2021,"Indiana","Unclassified",2080,120,5664233,905,47039
+2021,"Iowa","Natural resources and mining",2915,22310,1066374709,919,47797
+2021,"Iowa","Construction",9560,78294,4928180289,1210,62944
+2021,"Iowa","Manufacturing",4134,218148,14283637929,1259,65477
+2021,"Iowa","Trade, transportation, and utilities",23547,305939,14161271225,890,46288
+2021,"Iowa","Information",2050,18896,1356535252,1381,71791
+2021,"Iowa","Financial activities",10769,109221,9226323105,1624,84474
+2021,"Iowa","Professional and business services",17645,140587,9299930762,1272,66151
+2021,"Iowa","Education and health services",13419,209702,10325147985,947,49237
+2021,"Iowa","Leisure and hospitality",8743,128361,2534001284,380,19741
+2021,"Iowa","Other services",7637,37979,1585170976,803,41738
+2021,"Kansas","Natural resources and mining",2607,18619,933374940,964,50132
+2021,"Kansas","Construction",7462,63945,3888765131,1170,60815
+2021,"Kansas","Manufacturing",3170,160731,10383680667,1242,64603
+2021,"Kansas","Trade, transportation, and utilities",19482,262905,12596362835,921,47912
+2021,"Kansas","Information",1931,16912,1373510403,1562,81217
+2021,"Kansas","Financial activities",8925,73221,6002992347,1577,81985
+2021,"Kansas","Professional and business services",18303,171560,12262913453,1375,71479
+2021,"Kansas","Education and health services",10445,194264,9898558458,980,50954
+2021,"Kansas","Leisure and hospitality",6938,120309,2404607033,384,19987
+2021,"Kansas","Other services",6000,32361,1329383186,790,41079
+2021,"Kentucky","Natural resources and mining",1713,16378,944323105,1109,57657
+2021,"Kentucky","Construction",10300,79470,4736609529,1146,59602
+2021,"Kentucky","Manufacturing",5447,242963,15581773650,1233,64132
+2021,"Kentucky","Trade, transportation, and utilities",28831,410014,20151579265,945,49149
+2021,"Kentucky","Information",2584,20784,1381936640,1279,66491
+2021,"Kentucky","Financial activities",12435,94788,7364171350,1494,77691
+2021,"Kentucky","Professional and business services",24749,219363,12811987428,1123,58405
+2021,"Kentucky","Education and health services",21735,272189,15071970922,1065,55373
+2021,"Kentucky","Leisure and hospitality",10621,181475,3868398162,410,21316
+2021,"Kentucky","Other services",9406,42327,1732650694,787,40935
+2021,"Kentucky","Unclassified",419,292,19655628,1294,67275
+2021,"Louisiana","Natural resources and mining",3080,36244,3140838578,1667,86658
+2021,"Louisiana","Construction",11874,129438,8523588444,1266,65851
+2021,"Louisiana","Manufacturing",4585,129074,10429090938,1554,80799
+2021,"Louisiana","Trade, transportation, and utilities",31678,364425,17529085552,925,48101
+2021,"Louisiana","Information",2264,20994,1451108746,1329,69119
+2021,"Louisiana","Financial activities",14667,81464,5810572697,1372,71327
+2021,"Louisiana","Professional and business services",28034,213384,13333753489,1202,62487
+2021,"Louisiana","Education and health services",17543,302335,15435054776,982,51053
+2021,"Louisiana","Leisure and hospitality",13746,199865,4802832538,462,24030
+2021,"Louisiana","Other services",9577,43618,1883052753,830,43172
+2021,"Louisiana","Unclassified",241,67,2639342,761,39590
+2021,"Maine","Natural resources and mining",1733,8680,367403838,814,42328
+2021,"Maine","Construction",5951,31926,1855974377,1118,58134
+2021,"Maine","Manufacturing",1888,53762,3328277973,1191,61908
+2021,"Maine","Trade, transportation, and utilities",10617,116102,5310187694,880,45737
+2021,"Maine","Information",1055,6692,472484266,1358,70602
+2021,"Maine","Financial activities",4147,30220,2491488363,1586,82446
+2021,"Maine","Professional and business services",13080,73066,5291629912,1393,72422
+2021,"Maine","Education and health services",5750,116185,6500716569,1076,55951
+2021,"Maine","Leisure and hospitality",5251,60268,1711041803,546,28391
+2021,"Maine","Other services",3933,16712,689611302,794,41265
+2021,"Maine","Unclassified",1651,1515,129627255,1646,85577
+2021,"Maryland","Natural resources and mining",742,7480,365155231,939,48816
+2021,"Maryland","Construction",15964,160439,11653277023,1397,72634
+2021,"Maryland","Manufacturing",4203,110636,9730816882,1691,87953
+2021,"Maryland","Trade, transportation, and utilities",30832,461791,24441377843,1018,52927
+2021,"Maryland","Information",3407,33530,5006499189,2871,149315
+2021,"Maryland","Financial activities",16052,129037,14976268640,2232,116062
+2021,"Maryland","Professional and business services",45729,458223,42268318653,1774,92244
+2021,"Maryland","Education and health services",21934,424983,26584819077,1203,62555
+2021,"Maryland","Leisure and hospitality",14572,230700,6523738364,544,28278
+2021,"Maryland","Other services",19333,82243,4126454478,965,50174
+2021,"Maryland","Unclassified",310,358,20878260,1122,58333
+2021,"Massachusetts","Natural resources and mining",1045,13077,940971324,1384,71955
+2021,"Massachusetts","Construction",22188,164435,14378939864,1682,87444
+2021,"Massachusetts","Manufacturing",6614,232786,23153212874,1913,99461
+2021,"Massachusetts","Trade, transportation, and utilities",41057,548039,36059344796,1265,65797
+2021,"Massachusetts","Information",6984,93306,14668987606,3023,157213
+2021,"Massachusetts","Financial activities",19128,213084,35254498388,3182,165449
+2021,"Massachusetts","Professional and business services",52808,607488,81610050754,2583,134340
+2021,"Massachusetts","Education and health services",75635,763328,50837295120,1281,66600
+2021,"Massachusetts","Leisure and hospitality",20499,297855,9978549906,644,33501
+2021,"Massachusetts","Other services",23254,105723,5072774596,923,47982
+2021,"Massachusetts","Unclassified",3,1,87500,3365,175000
+2021,"Michigan","Natural resources and mining",3678,36654,1663129745,873,45374
+2021,"Michigan","Construction",22018,175900,12344333269,1350,70178
+2021,"Michigan","Manufacturing",17898,585798,41994710557,1379,71688
+2021,"Michigan","Trade, transportation, and utilities",54488,777134,42431244737,1050,54600
+2021,"Michigan","Information",8146,51846,4896791684,1816,94448
+2021,"Michigan","Financial activities",21647,215329,18203526861,1626,84538
+2021,"Michigan","Professional and business services",49914,630531,50506560923,1540,80102
+2021,"Michigan","Education and health services",33574,632149,35637489670,1084,56375
+2021,"Michigan","Leisure and hospitality",23032,356203,8664736634,468,24325
+2021,"Michigan","Other services",25569,122187,5013839364,789,41034
+2021,"Michigan","Unclassified",4980,10939,623157525,1096,56966
+2021,"Minnesota","Natural resources and mining",3222,28475,1673102665,1130,58757
+2021,"Minnesota","Construction",16965,130345,10132567355,1495,77736
+2021,"Minnesota","Manufacturing",8247,313043,23353551768,1435,74602
+2021,"Minnesota","Trade, transportation, and utilities",36924,509376,28946523014,1093,56827
+2021,"Minnesota","Information",4795,42649,4211742097,1899,98755
+2021,"Minnesota","Financial activities",16439,178821,19587257812,2106,109536
+2021,"Minnesota","Professional and business services",34665,373737,35754852479,1840,95669
+2021,"Minnesota","Education and health services",24212,522622,30230422223,1112,57844
+2021,"Minnesota","Leisure and hospitality",15390,228860,5937971234,499,25946
+2021,"Minnesota","Other services",18035,82408,3335645132,778,40477
+2021,"Minnesota","Unclassified",40,65,3097201,912,47406
+2021,"Mississippi","Natural resources and mining",2045,14408,744867778,994,51698
+2021,"Mississippi","Construction",5945,44906,2500034063,1071,55673
+2021,"Mississippi","Manufacturing",2383,143887,7762287723,1037,53947
+2021,"Mississippi","Trade, transportation, and utilities",19719,233782,9857200420,811,42164
+2021,"Mississippi","Information",1066,9584,545457055,1094,56911
+2021,"Mississippi","Financial activities",8153,42212,2601513713,1185,61630
+2021,"Mississippi","Professional and business services",13638,115421,5455733793,909,47268
+2021,"Mississippi","Education and health services",7922,139300,6659726081,919,47809
+2021,"Mississippi","Leisure and hospitality",6791,126201,2533997637,386,20079
+2021,"Mississippi","Other services",4754,20881,839039190,773,40183
+2021,"Mississippi","Unclassified",0,0,3989,230,11967
+2021,"Missouri","Natural resources and mining",2145,17781,852423611,922,47939
+2021,"Missouri","Construction",15826,131865,8900126670,1298,67494
+2021,"Missouri","Manufacturing",6997,270834,17185113172,1220,63452
+2021,"Missouri","Trade, transportation, and utilities",39444,538676,26493306541,946,49182
+2021,"Missouri","Information",4129,45401,4202645730,1780,92566
+2021,"Missouri","Financial activities",19436,168987,14395917258,1638,85190
+2021,"Missouri","Professional and business services",37332,373441,28729553358,1479,76932
+2021,"Missouri","Education and health services",56690,450209,23919855828,1022,53131
+2021,"Missouri","Leisure and hospitality",15435,275246,6813507934,476,24754
+2021,"Missouri","Other services",13224,71358,2876222900,775,40307
+2021,"Montana","Natural resources and mining",1858,12710,888291191,1344,69887
+2021,"Montana","Construction",7082,32981,1948631734,1136,59083
+2021,"Montana","Manufacturing",1729,21303,1218101653,1100,57179
+2021,"Montana","Trade, transportation, and utilities",9471,93541,4380135694,900,46826
+2021,"Montana","Information",958,5606,454528637,1559,81078
+2021,"Montana","Financial activities",4932,22776,1702679371,1438,74757
+2021,"Montana","Professional and business services",11372,46874,3080523670,1264,65720
+2021,"Montana","Education and health services",5281,75190,4132178866,1057,54956
+2021,"Montana","Leisure and hospitality",5239,65959,1551859360,452,23528
+2021,"Montana","Other services",4240,17698,639132239,694,36114
+2021,"Montana","Unclassified",768,824,74672306,1742,90594
+2021,"Nebraska","Natural resources and mining",2562,15868,731986109,887,46130
+2021,"Nebraska","Construction",7437,55874,3269015241,1125,58507
+2021,"Nebraska","Manufacturing",2026,99519,5970247876,1154,59991
+2021,"Nebraska","Trade, transportation, and utilities",15295,185988,8843779405,914,47550
+2021,"Nebraska","Information",1301,17711,1381402335,1500,77995
+2021,"Nebraska","Financial activities",7368,64711,5081112987,1510,78520
+2021,"Nebraska","Professional and business services",13550,117744,8161464523,1333,69316
+2021,"Nebraska","Education and health services",11392,137916,7445319242,1038,53984
+2021,"Nebraska","Leisure and hospitality",5718,86621,1707183666,379,19709
+2021,"Nebraska","Other services",4836,25041,965944865,742,38575
+2021,"Nevada","Natural resources and mining",603,19865,1769023388,1713,89053
+2021,"Nevada","Construction",5822,96829,6714528426,1334,69344
+2021,"Nevada","Manufacturing",2070,59980,4201952503,1347,70056
+2021,"Nevada","Trade, transportation, and utilities",15412,272508,14046224686,991,51544
+2021,"Nevada","Information",1929,15250,1718333532,2167,112675
+2021,"Nevada","Financial activities",9604,65422,5676028342,1668,86761
+2021,"Nevada","Professional and business services",21385,188315,14201353408,1450,75413
+2021,"Nevada","Education and health services",9368,145683,8750818927,1155,60068
+2021,"Nevada","Leisure and hospitality",8753,290716,10572378363,699,36367
+2021,"Nevada","Other services",5168,32962,1475926802,861,44777
+2021,"Nevada","Unclassified",12534,16938,1562353801,1774,92241
+2021,"New Hampshire","Natural resources and mining",347,2686,145497798,1042,54174
+2021,"New Hampshire","Construction",5159,29040,2066105292,1368,71147
+2021,"New Hampshire","Manufacturing",2017,67845,5471872738,1551,80652
+2021,"New Hampshire","Trade, transportation, and utilities",12881,138214,8249827706,1148,59689
+2021,"New Hampshire","Information",1324,11676,1362964205,2245,116732
+2021,"New Hampshire","Financial activities",4209,33951,4126129665,2337,121533
+2021,"New Hampshire","Professional and business services",15421,87714,10629071359,2330,121178
+2021,"New Hampshire","Education and health services",5049,111063,7267892017,1258,65440
+2021,"New Hampshire","Leisure and hospitality",4750,64948,1741892195,516,26820
+2021,"New Hampshire","Other services",4273,19798,900271801,874,45474
+2021,"New Hampshire","Unclassified",655,968,113558813,2257,117343
+2021,"New Jersey","Natural resources and mining",1164,12152,603294259,955,49647
+2021,"New Jersey","Construction",22885,156850,12567850056,1541,80127
+2021,"New Jersey","Manufacturing",9346,239168,21280890248,1711,88979
+2021,"New Jersey","Trade, transportation, and utilities",55600,859534,53256251550,1192,61959
+2021,"New Jersey","Information",4656,70542,10303669590,2809,146065
+2021,"New Jersey","Financial activities",21581,243029,32649955615,2584,134346
+2021,"New Jersey","Professional and business services",57807,682977,70929373550,1997,103853
+2021,"New Jersey","Education and health services",48606,644571,40169670174,1198,62320
+2021,"New Jersey","Leisure and hospitality",24755,328042,10300744073,604,31401
+2021,"New Jersey","Other services",24622,124731,5445521581,840,43658
+2021,"New Jersey","Unclassified",20211,22472,1769979072,1515,78763
+2021,"New Mexico","Natural resources and mining",2038,28667,2008588370,1347,70065
+2021,"New Mexico","Construction",5460,47815,2647115849,1065,55361
+2021,"New Mexico","Manufacturing",1726,27691,1628351715,1131,58805
+2021,"New Mexico","Trade, transportation, and utilities",10923,135055,5866160581,835,43435
+2021,"New Mexico","Information",1328,10307,744979982,1390,72283
+2021,"New Mexico","Financial activities",5810,32063,2116402198,1269,66008
+2021,"New Mexico","Professional and business services",12176,111468,8112105070,1400,72775
+2021,"New Mexico","Education and health services",11365,128898,6017396745,898,46683
+2021,"New Mexico","Leisure and hospitality",5327,85922,1962424384,439,22840
+2021,"New Mexico","Other services",4445,19316,807476812,804,41803
+2021,"New York","Natural resources and mining",3376,31971,1481614200,891,46343
+2021,"New York","Construction",51254,373977,29949933764,1540,80085
+2021,"New York","Manufacturing",16118,406435,30507061983,1443,75060
+2021,"New York","Trade, transportation, and utilities",114927,1411848,86332527285,1176,61149
+2021,"New York","Information",14573,278421,47290725700,3266,169854
+2021,"New York","Financial activities",62823,694623,161350702631,4467,232285
+2021,"New York","Professional and business services",115537,1271241,146497388896,2216,115240
+2021,"New York","Education and health services",66791,1904727,116536700646,1177,61183
+2021,"New York","Leisure and hospitality",64420,720877,28505176874,760,39542
+2021,"New York","Other services",68390,319226,15874247302,956,49727
+2021,"New York","Unclassified",67225,47535,3608518093,1460,75913
+2021,"North Carolina","Natural resources and mining",3356,28154,1276416073,872,45336
+2021,"North Carolina","Construction",30472,238391,14665572879,1183,61519
+2021,"North Carolina","Manufacturing",10362,464007,30579557844,1267,65903
+2021,"North Carolina","Trade, transportation, and utilities",65845,892410,44850436850,966,50258
+2021,"North Carolina","Information",7251,77323,8220274575,2044,106311
+2021,"North Carolina","Financial activities",31956,270554,27770338722,1974,102642
+2021,"North Carolina","Professional and business services",70696,678363,52531191088,1489,77438
+2021,"North Carolina","Education and health services",32469,606179,34428823354,1092,56796
+2021,"North Carolina","Leisure and hospitality",27914,458527,11001150404,461,23992
+2021,"North Carolina","Other services",26920,114950,4789200436,801,41663
+2021,"North Dakota","Natural resources and mining",1818,18517,1690973210,1756,91319
+2021,"North Dakota","Construction",3631,24720,1649307599,1283,66720
+2021,"North Dakota","Manufacturing",823,26146,1642476892,1208,62819
+2021,"North Dakota","Trade, transportation, and utilities",7697,86909,4716921399,1044,54274
+2021,"North Dakota","Information",474,5727,474769853,1594,82903
+2021,"North Dakota","Financial activities",3113,22102,1608817184,1400,72789
+2021,"North Dakota","Professional and business services",5490,32887,2184002600,1277,66410
+2021,"North Dakota","Education and health services",2923,64735,3782511579,1124,58431
+2021,"North Dakota","Leisure and hospitality",2635,36926,762138733,397,20639
+2021,"North Dakota","Other services",2160,10381,446505660,827,43014
+2021,"Ohio","Natural resources and mining",2578,25677,1352483560,1013,52673
+2021,"Ohio","Construction",24326,223902,15049037327,1293,67213
+2021,"Ohio","Manufacturing",15527,665724,44566478415,1287,66944
+2021,"Ohio","Trade, transportation, and utilities",69927,1028566,52719758551,986,51256
+2021,"Ohio","Information",6273,65067,5610036665,1658,86219
+2021,"Ohio","Financial activities",30223,294384,25210119514,1647,85637
+2021,"Ohio","Professional and business services",59640,720354,54468268916,1454,75613
+2021,"Ohio","Education and health services",37177,870108,46893986436,1036,53894
+2021,"Ohio","Leisure and hospitality",29590,506272,11675531024,443,23062
+2021,"Ohio","Other services",24671,145308,5794539769,767,39878
+2021,"Ohio","Unclassified",710,1180,66661373,1086,56489
+2021,"Oklahoma","Natural resources and mining",4295,37608,3341360816,1709,88847
+2021,"Oklahoma","Construction",10100,78409,4440487098,1089,56632
+2021,"Oklahoma","Manufacturing",4170,128694,8059459795,1204,62625
+2021,"Oklahoma","Trade, transportation, and utilities",24211,311836,14066131506,867,45107
+2021,"Oklahoma","Information",1771,17887,1231130977,1324,68830
+2021,"Oklahoma","Financial activities",12094,75734,5084294700,1291,67133
+2021,"Oklahoma","Professional and business services",23253,192111,11775760509,1179,61297
+2021,"Oklahoma","Education and health services",13952,212099,10960231851,994,51675
+2021,"Oklahoma","Leisure and hospitality",9514,165706,3460298774,402,20882
+2021,"Oklahoma","Other services",6597,35150,1399681819,766,39821
+2021,"Oregon","Natural resources and mining",4774,54590,2379574153,838,43590
+2021,"Oregon","Construction",15349,110227,7725894749,1348,70091
+2021,"Oregon","Manufacturing",6457,186372,14617933624,1508,78434
+2021,"Oregon","Trade, transportation, and utilities",26135,358084,19011230703,1021,53092
+2021,"Oregon","Information",4952,34915,3979062751,2192,113964
+2021,"Oregon","Financial activities",13393,84299,7257558856,1656,86093
+2021,"Oregon","Professional and business services",28566,249992,22169385151,1705,88680
+2021,"Oregon","Education and health services",28903,294729,16947588821,1106,57502
+2021,"Oregon","Leisure and hospitality",14006,174222,4713227021,520,27053
+2021,"Oregon","Other services",15221,62126,2738451647,848,44079
+2021,"Oregon","Unclassified",8135,3781,230732457,1173,61021
+2021,"Pennsylvania","Natural resources and mining",3667,47217,3018312552,1229,63924
+2021,"Pennsylvania","Construction",29790,254512,18699019938,1413,73470
+2021,"Pennsylvania","Manufacturing",14329,543563,37702583370,1334,69362
+2021,"Pennsylvania","Trade, transportation, and utilities",74131,1098725,56939384937,997,51823
+2021,"Pennsylvania","Information",6924,85971,9892992489,2213,115073
+2021,"Pennsylvania","Financial activities",30842,328147,33709546830,1976,102727
+2021,"Pennsylvania","Professional and business services",70966,802548,74216565936,1778,92476
+2021,"Pennsylvania","Education and health services",58362,1176045,70078982211,1146,59589
+2021,"Pennsylvania","Leisure and hospitality",33216,478394,11955514029,481,24991
+2021,"Pennsylvania","Other services",34108,183532,7410556290,776,40377
+2021,"Rhode Island","Natural resources and mining",218,1219,51765708,816,42454
+2021,"Rhode Island","Construction",3998,20061,1389647966,1332,69272
+2021,"Rhode Island","Manufacturing",1511,39065,2517638419,1239,64447
+2021,"Rhode Island","Trade, transportation, and utilities",8148,74579,3837246540,989,51452
+2021,"Rhode Island","Information",905,5442,502726000,1777,92387
+2021,"Rhode Island","Financial activities",3326,31362,3143069578,1927,100219
+2021,"Rhode Island","Professional and business services",10944,68495,5600706135,1572,81769
+2021,"Rhode Island","Education and health services",5313,96358,5428112104,1083,56333
+2021,"Rhode Island","Leisure and hospitality",3977,51428,1391536956,520,27058
+2021,"Rhode Island","Other services",3762,16211,655649448,778,40446
+2021,"Rhode Island","Unclassified",120,65,6345797,1875,97503
+2021,"South Carolina","Natural resources and mining",1415,12250,587312557,922,47942
+2021,"South Carolina","Construction",13443,104635,6374112642,1171,60918
+2021,"South Carolina","Manufacturing",7096,249685,16087402666,1239,64431
+2021,"South Carolina","Trade, transportation, and utilities",32384,414626,19267417706,894,46469
+2021,"South Carolina","Information",3845,27431,2327853801,1632,84861
+2021,"South Carolina","Financial activities",16142,105350,7955390334,1452,75514
+2021,"South Carolina","Professional and business services",33229,297123,17789123744,1151,59871
+2021,"South Carolina","Education and health services",16346,238276,12628029019,1019,52997
+2021,"South Carolina","Leisure and hospitality",13826,246393,5476082990,427,22225
+2021,"South Carolina","Other services",10387,51443,2086699227,780,40563
+2021,"South Carolina","Unclassified",60,75,2102150,537,27905
+2021,"South Dakota","Natural resources and mining",1140,7344,360185574,943,49043
+2021,"South Dakota","Construction",4074,25127,1403660841,1074,55862
+2021,"South Dakota","Manufacturing",1059,43812,2456651254,1078,56073
+2021,"South Dakota","Trade, transportation, and utilities",8285,86079,4018708175,898,46686
+2021,"South Dakota","Information",663,5060,307826951,1170,60839
+2021,"South Dakota","Financial activities",3591,27685,2032357139,1412,73411
+2021,"South Dakota","Professional and business services",6654,34606,2389085677,1328,69037
+2021,"South Dakota","Education and health services",3039,69980,4118479344,1132,58852
+2021,"South Dakota","Leisure and hospitality",3234,45620,940915076,397,20625
+2021,"South Dakota","Other services",2380,11557,453475614,755,39237
+2021,"Tennessee","Natural resources and mining",1174,11348,599374964,1016,52819
+2021,"Tennessee","Construction",13792,136492,8902994741,1254,65227
+2021,"Tennessee","Manufacturing",8184,349014,22760465706,1254,65214
+2021,"Tennessee","Trade, transportation, and utilities",42258,648899,35826256208,1062,55211
+2021,"Tennessee","Information",6180,46415,4247069115,1760,91502
+2021,"Tennessee","Financial activities",18481,159852,14972307610,1801,93663
+2021,"Tennessee","Professional and business services",36634,437177,31293915917,1377,71582
+2021,"Tennessee","Education and health services",22418,425670,25443182983,1149,59772
+2021,"Tennessee","Leisure and hospitality",18001,314361,8472644802,518,26952
+2021,"Tennessee","Other services",13186,74682,3250278191,837,43521
+2021,"Tennessee","Unclassified",613,645,43361578,1292,67184
+2021,"Texas","Natural resources and mining",19376,237394,26562692991,2152,111893
+2021,"Texas","Construction",57448,736948,52542959853,1371,71298
+2021,"Texas","Manufacturing",27082,874313,73016618469,1606,83513
+2021,"Texas","Trade, transportation, and utilities",156678,2551405,152713735415,1151,59855
+2021,"Texas","Information",13466,207472,23284152715,2158,112228
+2021,"Texas","Financial activities",83403,811068,79535040458,1886,98062
+2021,"Texas","Professional and business services",158422,1901077,165174156390,1671,86885
+2021,"Texas","Education and health services",100810,1686205,92487023509,1055,54849
+2021,"Texas","Leisure and hospitality",68869,1295192,32768802478,487,25300
+2021,"Texas","Other services",59423,329232,15260578127,891,46352
+2021,"Texas","Unclassified",7371,10701,613474046,1102,57327
+2021,"Utah","Natural resources and mining",1081,14888,963265678,1244,64702
+2021,"Utah","Construction",13826,122400,7392732790,1162,60398
+2021,"Utah","Manufacturing",4892,144840,9494502631,1261,65552
+2021,"Utah","Trade, transportation, and utilities",21168,305305,15721024878,990,51493
+2021,"Utah","Information",4002,39801,4300907479,2078,108061
+2021,"Utah","Financial activities",13627,97695,8479163995,1669,86793
+2021,"Utah","Professional and business services",29046,232427,16903319249,1399,72725
+2021,"Utah","Education and health services",14331,200897,10030587054,960,49929
+2021,"Utah","Leisure and hospitality",8025,148288,3497549591,454,23586
+2021,"Utah","Other services",7320,37522,1570048880,805,41844
+2021,"Utah","Unclassified",112,110,8498902,1480,76971
+2021,"Vermont","Natural resources and mining",587,4129,172918272,805,41883
+2021,"Vermont","Construction",2897,15109,870771119,1108,57632
+2021,"Vermont","Manufacturing",1113,28664,1837292457,1233,64097
+2021,"Vermont","Trade, transportation, and utilities",5015,51156,2445747964,919,47810
+2021,"Vermont","Information",714,3990,289884436,1397,72659
+2021,"Vermont","Financial activities",1822,11515,1001090641,1672,86941
+2021,"Vermont","Professional and business services",7391,30271,2484662871,1578,82082
+2021,"Vermont","Education and health services",2607,59153,3181167846,1034,53779
+2021,"Vermont","Leisure and hospitality",2254,29515,824904071,537,27948
+2021,"Vermont","Other services",2079,7993,342065113,823,42796
+2021,"Virginia","Natural resources and mining",2131,17828,907259598,979,50890
+2021,"Virginia","Construction",22258,205022,13543128565,1270,66057
+2021,"Virginia","Manufacturing",7515,235536,15342730867,1253,65140
+2021,"Virginia","Trade, transportation, and utilities",43598,647975,33154448232,984,51166
+2021,"Virginia","Information",5706,65963,8543185965,2491,129516
+2021,"Virginia","Financial activities",24060,196544,20144663320,1971,102495
+2021,"Virginia","Professional and business services",64754,772263,77472792770,1929,100319
+2021,"Virginia","Education and health services",52105,502302,28675976422,1098,57089
+2021,"Virginia","Leisure and hospitality",21629,353723,8796573181,478,24869
+2021,"Virginia","Other services",30618,126796,6607778959,1002,52114
+2021,"Virginia","Unclassified",14969,23503,1296783764,1061,55175
+2021,"Washington","Natural resources and mining",6796,98938,3787642554,736,38283
+2021,"Washington","Construction",28517,210691,15545839823,1419,73785
+2021,"Washington","Manufacturing",8089,256519,21334751839,1599,83170
+2021,"Washington","Trade, transportation, and utilities",39413,641626,50873405763,1525,79288
+2021,"Washington","Information",6407,156912,42043636158,5153,267944
+2021,"Washington","Financial activities",19341,150920,15890228573,2025,105289
+2021,"Washington","Professional and business services",47867,440724,44827215216,1956,101713
+2021,"Washington","Education and health services",69041,479452,28225563751,1132,58871
+2021,"Washington","Leisure and hospitality",21202,278115,8347186077,577,30013
+2021,"Washington","Other services",20922,91550,4769560874,1002,52098
+2021,"Washington","Unclassified",279,25,2445382,1894,98472
+2021,"West Virginia","Natural resources and mining",1112,18734,1555291370,1597,83022
+2021,"West Virginia","Construction",4374,30798,1877094558,1172,60949
+2021,"West Virginia","Manufacturing",1377,45336,2954126351,1253,65160
+2021,"West Virginia","Trade, transportation, and utilities",10671,121238,5327036083,845,43939
+2021,"West Virginia","Information",933,7227,461353804,1228,63837
+2021,"West Virginia","Financial activities",4224,24486,1469787246,1154,60026
+2021,"West Virginia","Professional and business services",9425,67914,3832839377,1085,56437
+2021,"West Virginia","Education and health services",9069,125442,6634556505,1017,52890
+2021,"West Virginia","Leisure and hospitality",4720,67185,1367110551,391,20348
+2021,"West Virginia","Other services",3507,16372,614922029,722,37559
+2021,"West Virginia","Unclassified",75,328,16219932,951,49476
+2021,"Wisconsin","Natural resources and mining",2873,30939,1339688649,833,43301
+2021,"Wisconsin","Construction",14869,126592,8767547949,1332,69258
+2021,"Wisconsin","Manufacturing",9078,465956,30004194010,1238,64393
+2021,"Wisconsin","Trade, transportation, and utilities",35678,532526,25580861648,924,48037
+2021,"Wisconsin","Information",2631,44941,4188607689,1792,93203
+2021,"Wisconsin","Financial activities",14923,150560,12574828792,1606,83520
+2021,"Wisconsin","Professional and business services",28285,318414,22702741378,1371,71299
+2021,"Wisconsin","Education and health services",33607,430689,24053809328,1074,55850
+2021,"Wisconsin","Leisure and hospitality",16759,249390,5320933126,410,21336
+2021,"Wisconsin","Other services",13104,75931,2854357093,723,37591
+2021,"Wisconsin","Unclassified",6468,7291,451903391,1192,61982
+2021,"Wyoming","Natural resources and mining",1415,17483,1492644374,1642,85379
+2021,"Wyoming","Construction",3472,21027,1226076912,1121,58309
+2021,"Wyoming","Manufacturing",651,9771,679931725,1338,69585
+2021,"Wyoming","Trade, transportation, and utilities",4876,49386,2296685081,894,46505
+2021,"Wyoming","Information",490,2965,183570823,1191,61913
+2021,"Wyoming","Financial activities",2521,11175,836615853,1440,74863
+2021,"Wyoming","Professional and business services",5508,19670,1397379708,1366,71042
+2021,"Wyoming","Education and health services",3568,27234,1295265692,915,47561
+2021,"Wyoming","Leisure and hospitality",2450,35840,881751490,473,24602
+2021,"Wyoming","Other services",1692,6892,289982869,809,42076
+2021,"Wyoming","Unclassified",128,137,12875102,1811,94151
