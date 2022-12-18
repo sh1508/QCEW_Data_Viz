@@ -1,5 +1,5 @@
 # sh1508.github.io
-This is my github portfolio page for data analitics projects. Please feel free to review my work through a "Portfolio" file.
+This is my github portfolio page for data analitics projects. Please feel free to review my work through a "Portfolio" file, or clik the link below.
 <br>
 <br>
 - [Die Roll Experiment](https://github.com/sh1508/sh1508.github.io/blob/main/Portfolio/Die_Roll_Experiment_Project/Die_Roll_Experiment_Project.md) <br>
