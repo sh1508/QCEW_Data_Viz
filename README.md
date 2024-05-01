@@ -3,3 +3,4 @@ This is my github portfolio page for data analytics/data science projects. Pleas
 <br>
 <br>
 - [EDA Guide](https://github.com/sh1508/sh1508.github.io/blob/main/Portfolio/EDA%20Guide/EDA%20Guide.ipynb)
+- [Sampling Distributions and Statistical Experiments](https://github.com/sh1508/sh1508.github.io/blob/main/Portfolio/Sampling%20Distributions%20and%20Statistical%20Experiments/Sampling%20Distributions%20and%20Statistical%20Experiments.ipynb)
